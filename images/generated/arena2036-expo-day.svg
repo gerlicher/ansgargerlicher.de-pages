@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <rect width="100%" height="100%" fill="hsl(146 55% 75%)" />
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial" text-anchor="middle">
+    <text x="50%" y="288" font-size="200px">📝</text>
+    <text x="50%" y="496" font-size="42px" fill="#333" font-weight="600">
+    <tspan x="50%" dy="0">ARENA2036 Expo Day</tspan>
+    </text>
+  </g>
+</svg>
