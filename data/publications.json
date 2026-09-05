@@ -1,7 +1,7 @@
 {
   "source": "https://www.zotero.org/gerlicher/library",
   "api": "https://api.zotero.org/users/1360235/items/top",
-  "fetched": "2026-08-24T14:35:50.063Z",
+  "fetched": "2026-09-05T13:06:35.768Z",
   "style": "apa",
   "locale": "en-US",
   "publications": [
@@ -298,6 +298,22 @@
       "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Fankhauser, T., Wang, Q., Gerlicher, A., &amp; Grecos, C. (2018). Resource Dependency Processing in Web Scaling Frameworks. <i>IEEE Transactions on Services Computing</i>, <i>11</i>(1), 155–168. <a href=\"https://doi.org/10.1109/TSC.2016.2561934\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.1109/TSC.2016.2561934</a></div>\n</div>"
     },
     {
+      "key": "EFBEKTM9",
+      "version": 106,
+      "itemType": "bookSection",
+      "title": "Mobile Learning and Mobile Game-based Learning",
+      "date": "2018",
+      "year": "2018",
+      "creators": [
+        "A. Gerlicher",
+        "T. Jordine"
+      ],
+      "publicationTitle": "Handbuch Mobile Learning",
+      "doi": "10.1007/978-3-658-19123-8",
+      "url": "https://doi.org/10.1007/978-3-658-19123-8",
+      "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Gerlicher, A., &amp; Jordine, T. (2018). Mobile Learning and Mobile Game-based Learning. In <i>Handbuch Mobile Learning</i>. Springer. <a href=\"https://doi.org/10.1007/978-3-658-19123-8\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.1007/978-3-658-19123-8</a></div>\n</div>"
+    },
+    {
       "key": "NFSJGKQN",
       "version": 96,
       "itemType": "conferencePaper",
@@ -332,22 +348,6 @@
       "doi": "10.1177/1525822X18797303",
       "url": "https://doi.org/10.1177/1525822X18797303",
       "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Daum, T., Buchwald, H., Berner, R., &amp; Gerlicher, A. (2018). Times Have Changed: Using a Pictorial Smartphone App to Collect Time–Use Data in Rural Zambia. <i>Field Methods</i>. <a href=\"https://doi.org/10.1177/1525822X18797303\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.1177/1525822X18797303</a></div>\n</div>"
-    },
-    {
-      "key": "EFBEKTM9",
-      "version": 96,
-      "itemType": "bookSection",
-      "title": "Mobile Learning and Mobile Game-based Learning",
-      "date": "2018",
-      "year": "2018",
-      "creators": [
-        "A. Gerlicher",
-        "T. Jordine"
-      ],
-      "publicationTitle": "Handbuch Mobile Learning",
-      "doi": "",
-      "url": "",
-      "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Gerlicher, A., &amp; Jordine, T. (2018). Mobile Learning and Mobile Game-based Learning. In <i>Handbuch Mobile Learning</i>. Springer. <a href=\"https://doi.org/10.1007/978-3-658-19123-8\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.1007/978-3-658-19123-8</a></div>\n</div>"
     },
     {
       "key": "X2WIM4AN",
@@ -631,7 +631,7 @@
     },
     {
       "key": "LCMPVLHV",
-      "version": 94,
+      "version": 105,
       "itemType": "bookSection",
       "title": "A Framework for Real-Time Collaborative Engineering in the Automotive Industries",
       "date": "2006",
@@ -656,7 +656,7 @@
         "Ansgar R. S. Gerlicher"
       ],
       "publicationTitle": "Cooperative Design, Visualization, and Engineering",
-      "doi": "",
+      "doi": "10.1007/11863649_21",
       "url": "http://link.springer.com/10.1007/11863649_21",
       "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Gerlicher, A. R. S. (2006). A Framework for Real-Time Collaborative Engineering in the Automotive Industries. In Y. Luo (Ed.), <i>Cooperative Design, Visualization, and Engineering</i> (Vol. 4101, pp. 164–173). Springer Berlin Heidelberg. <a href=\"https://doi.org/10.1007/11863649_21\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.1007/11863649_21</a></div>\n</div>"
     },
