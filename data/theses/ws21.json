@@ -1,0 +1,40 @@
+{
+  "semester": "ws21",
+  "term": "Winter Semester 2021",
+  "source": "WordPress archive and Notion thesis database",
+  "fetched": "2026-08-17T08:00:20.305Z",
+  "theses": [
+    {
+      "id": "archive-82f085867e63c679cca8",
+      "student": "Johannes Goss",
+      "topic": "Cyberphysische Interaktion in Virtual Reality – Einsatz von Handtracking und realen Objekten zur Erhöhung der Immersion in cooperation with Arena2036 and Mercedes-Benz",
+      "degree": "MSc",
+      "company": "",
+      "term": "Winter Semester 2021"
+    },
+    {
+      "id": "archive-5f9dc81007a26a9ebea1",
+      "student": "Elias Merzhäuser",
+      "topic": "Onboard-Feedback für die nachhaltige Nutzung von Elektrofahrzeugen: Untersuchung der nutzerseitigen Erwartungen und Anforderungen an die User Experience eines spielbasiertes Eco-Driving Assistenzsystems, welches den Fahrer zu einem umweltschonenden Fahrverhalten motiviert in cooperation with Mercedes-Benz",
+      "degree": "BSc",
+      "company": "",
+      "term": "Winter Semester 2021"
+    },
+    {
+      "id": "archive-3180ccb87e8c78e92d73",
+      "student": "David Tomschitz",
+      "topic": "Evaluation von Backend-as-a-Service-Anbietern und prototypische Implementierung einer Flutter-App",
+      "degree": "BSc",
+      "company": "",
+      "term": "Winter Semester 2021"
+    },
+    {
+      "id": "archive-5cd953d930b1fc5e54a1",
+      "student": "Daniel Cantz",
+      "topic": "Augmented Reality for Navigating Large-Scale Environments – Agent Intent Visualization in cooperation with Porsche AG",
+      "degree": "MSc",
+      "company": "",
+      "term": "Winter Semester 2021"
+    }
+  ]
+}

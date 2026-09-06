@@ -1,0 +1,32 @@
+{
+  "semester": "ws19",
+  "term": "Winter Semester 2019",
+  "source": "WordPress archive and Notion thesis database",
+  "fetched": "2026-08-17T08:00:20.305Z",
+  "theses": [
+    {
+      "id": "archive-88d527ebaadbe8c479f6",
+      "student": "Svenja Bussinger",
+      "topic": "Telemedical solutions for medical practice, completed 15.05.2020",
+      "degree": "MSc",
+      "company": "",
+      "term": "Winter Semester 2019/20"
+    },
+    {
+      "id": "archive-35041c314982dd325d6e",
+      "student": "Dennis Kreuzer",
+      "topic": "Evaluation of different cross-platform technologies for app development. (Welche Cross Plattform Technologie eignet sich am besten für die Implementierung, der Eltako Smart Home App?). Completed 28.02.2020",
+      "degree": "BSc",
+      "company": "",
+      "term": "Winter Semester 2019/20"
+    },
+    {
+      "id": "archive-f69e144cb7c230def1c4",
+      "student": "Robin Zachmann",
+      "topic": "Modern Software-Architecture Design in individual software, completed 15.04.2020",
+      "degree": "",
+      "company": "",
+      "term": "Winter Semester 2019/20"
+    }
+  ]
+}

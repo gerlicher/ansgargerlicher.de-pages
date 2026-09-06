@@ -1,0 +1,56 @@
+{
+  "semester": "ss15",
+  "term": "Summer Semester 2015",
+  "source": "WordPress archive and Notion thesis database",
+  "fetched": "2026-08-17T08:00:20.305Z",
+  "theses": [
+    {
+      "id": "archive-fa974721a550fd8bf2ed",
+      "student": "Felix Roos",
+      "topic": "Cross Platform Real Time Communication for Mobile Gaming, August 11, 2015",
+      "degree": "BSc",
+      "company": "",
+      "term": "Summer Semester 2015"
+    },
+    {
+      "id": "archive-7c269180c2e181f5a4d5",
+      "student": "Lisa Kranz",
+      "topic": "Design, Development and Evaluation of a Smartphone App for remote automotive data, November 2, 2015",
+      "degree": "MSc",
+      "company": "",
+      "term": "Summer Semester 2015"
+    },
+    {
+      "id": "archive-54886a6171ccc7fba2be",
+      "student": "Lisa Otter",
+      "topic": "Comparison of the Web-Frameworks AngularJS and Vaadin in Terms of Web- and Mobile Development, June 22, 2015",
+      "degree": "BSc",
+      "company": "",
+      "term": "Summer Semester 2015"
+    },
+    {
+      "id": "archive-4104fcbfa40682bce841",
+      "student": "Mario Walz",
+      "topic": "Analysis and Evaluation of the Cross-Platform Framework Xamarin based on a mobile productivity app. July 31, 2015",
+      "degree": "BSc",
+      "company": "",
+      "term": "Summer Semester 2015"
+    },
+    {
+      "id": "archive-c09966f819f8df3c02be",
+      "student": "Nathalie Bressa",
+      "topic": "iBeacon Security. August 31, 2015",
+      "degree": "BSc",
+      "company": "",
+      "term": "Summer Semester 2015"
+    },
+    {
+      "id": "archive-7851f1726ddfb0dcbe36",
+      "student": "Sabrina Meier",
+      "topic": "User-Interface Concepts for universal Tablet- and Smartphone Apps, August 31, 2015",
+      "degree": "BSc",
+      "company": "",
+      "term": "Summer Semester 2015"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "semester": "ss23",
+  "term": "Summer Semester 2023",
+  "source": "WordPress archive and Notion thesis database",
+  "fetched": "2026-08-17T08:00:20.305Z",
+  "theses": [
+    {
+      "id": "archive-583d785d58288a02d557",
+      "student": "Robin Mayer",
+      "topic": "Die Nutzung von Augmented Reality bei physischen Einrichtungsprozessen",
+      "degree": "",
+      "company": "",
+      "term": "Summer Semester 2023"
+    },
+    {
+      "id": "bbe45981e05a4f0bb357e9f8cbe5f49d",
+      "student": "Kai Schwabe",
+      "topic": "Moderne UI Frameworks auf Embedded Devices. Eine Untersuchung von modernen nativen UI Frameworks am Beispiel Flutter und webbasierten UI Frameworks am Beispiel Electron im Vergleich zu traditionellen UI Frameworks am Beispiel QT.",
+      "degree": "BSc",
+      "company": "",
+      "term": "Summer Semester 2023"
+    },
+    {
+      "id": "a7d88692b1a54d5ebf194197c227c7f0",
+      "student": "Marcel Wohlfahrt",
+      "topic": "Konzeptionierung und Generierung eines Storyboards durch KI-generierte Bilder",
+      "degree": "BSc",
+      "company": "",
+      "term": "Summer Semester 2023"
+    },
+    {
+      "id": "06f236988cc34a3fa13012ab613219f3",
+      "student": "Niko Dangel",
+      "topic": "Entwicklung eines Softwaretools zur automatischen Bewertung und Bereitstellung von Fahrzeugdaten für Testfahrzeuge",
+      "degree": "BSc",
+      "company": "",
+      "term": "Summer Semester 2023"
+    },
+    {
+      "id": "ce9d558045e54618a70667dfdafe2a24",
+      "student": "Madleen Willmann",
+      "topic": "Konzeption und Entwicklung einer mobilen Anwendung zur Messung von Objektdimensionen im dreidimensionalen Raum",
+      "degree": "BSc",
+      "company": "",
+      "term": "Summer Semester 2023"
+    },
+    {
+      "id": "c496636cb899481399102e315a031740",
+      "student": "Judith Rothacker",
+      "topic": "Konzeption, Implementierung und Evaluation einer Android App für Kindertagesstätten",
+      "degree": "BSc",
+      "company": "Startup",
+      "term": "Summer Semester 2023"
+    },
+    {
+      "id": "d8cf8cfb66c1450188b0d3b647a6d7c2",
+      "student": "Hannes Koksch",
+      "topic": "Evaluation von Workflows und Tools zum unabhängigen Testen einzelner Features im Kontext agiler Softwareentwicklung",
+      "degree": "BSc",
+      "company": "",
+      "term": "Summer Semester 2023"
+    },
+    {
+      "id": "a95612ca5ce04d2ea1bb3849b772462a",
+      "student": "Charlotte Springman",
+      "topic": "User Experience und Usability im E-Commerce",
+      "degree": "BSc",
+      "company": "",
+      "term": "Summer Semester 2023"
+    },
+    {
+      "id": "6d12d36324a9480db293761976635415",
+      "student": "Sandra Herbst",
+      "topic": "Einsatz von Gamification in einer App für Asthma Patienten am Beispiel einer Implementierung für Android",
+      "degree": "BSc",
+      "company": "",
+      "term": "Summer Semester 2023"
+    },
+    {
+      "id": "70d0a1c1fd544aaaa0c88ece7e26910c",
+      "student": "Philipp Zimmermann",
+      "topic": "Nutzerstudie zur Benutzerfreundlichkeit von Kontaktformularen",
+      "degree": "BSc",
+      "company": "",
+      "term": "Summer Semester 2023"
+    },
+    {
+      "id": "902b3088ccee49f5ad656278607feabc",
+      "student": "Jessica Gomm",
+      "topic": "Anreizsysteme und Nutzerzufriedenheit - User Experience Design Konzept am Beispiel einer CO2 Tracking Applikation",
+      "degree": "BSc",
+      "company": "",
+      "term": "Summer Semester 2023"
+    },
+    {
+      "id": "c2d0e7d520bd42118b487f5101d6c9d2",
+      "student": "Magali Gröter",
+      "topic": "Entwicklung und Evaluation eines Gamification Konzepts für eine digitale Juralernplattform anhand eines User Centered design Ansatzes",
+      "degree": "MSc",
+      "company": "",
+      "term": "Summer Semester 2023"
+    },
+    {
+      "id": "c10e9b59042a492383dd3a002d4e1bbd",
+      "student": "Steffen Fingerle",
+      "topic": "Motivational Design Patterns for Shared Mobility Applications",
+      "degree": "BSc",
+      "company": "",
+      "term": "Summer Semester 2023"
+    },
+    {
+      "id": "d25c90d594b44946ab2aeadc8adc35bb",
+      "student": "Anne Schmachtenberger",
+      "topic": "Visualisierung eines KI basierten Decision-Support-Systems für Revierförster zur Schaffung von Transparenz und Vertrauen",
+      "degree": "MSc",
+      "company": "EDI GmbH",
+      "term": "Summer Semester 2023"
+    }
+  ]
+}

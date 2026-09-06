@@ -1,0 +1,72 @@
+{
+  "semester": "ws18",
+  "term": "Winter Semester 2018",
+  "source": "WordPress archive and Notion thesis database",
+  "fetched": "2026-08-17T08:00:20.305Z",
+  "theses": [
+    {
+      "id": "archive-df4f975e805781b3382c",
+      "student": "Christof Kost",
+      "topic": "State of the Art Cross-Platform Mobile Frameworks, completed 10.05.2019",
+      "degree": "MSc",
+      "company": "",
+      "term": "Winter Semester 2018/19"
+    },
+    {
+      "id": "archive-de872fb4d064dfc53d5d",
+      "student": "Daniel Mayer",
+      "topic": "Detecting Car-Parking Spaces using Mask Region-based Convolutional Networks, completed 31.07.2019",
+      "degree": "MSc",
+      "company": "",
+      "term": "Winter Semester 2018/19"
+    },
+    {
+      "id": "archive-c4ccbdb8d5d8d5f88ffa",
+      "student": "Miro Bilge",
+      "topic": "Development of a Scalable and Extensible Building Management System Based on a Beacon Mesh Network (Entwicklung eines skalier- und erweiterbaren Gebäudeüberwachungssystems auf Basis eines Beacon-Mesh-Netzwerkes), completed 15.02.2019",
+      "degree": "BSc",
+      "company": "",
+      "term": "Winter Semester 2018/19"
+    },
+    {
+      "id": "archive-ab91482ece349e6a52b5",
+      "student": "Johannes Mauthe",
+      "topic": "Evaluation of Augmented Reality Real-Time Object Detection Using an iOS Application for Detecting Skin Cancer (Evaluierung einer Augmented-Reality-Echtzeit-Objekterkennung am Beispiel einer iOS-Anwendung zur Hautkrebsanalyse), completed 10.03.2019",
+      "degree": "BSc",
+      "company": "",
+      "term": "Winter Semester 2018/19"
+    },
+    {
+      "id": "archive-5ab3fe608abba790b105",
+      "student": "Michael Lämmle",
+      "topic": "Konzeption einer modularen Web-Lösung zur Integration von Kunden und externen Parteien in unternehmensinterne Prozesse und Daten auf Basis eines Enterprise Content Management-Systems, completed 15.05.2019",
+      "degree": "MSc",
+      "company": "",
+      "term": "Winter Semester 2018/19"
+    },
+    {
+      "id": "archive-d924c217b110ddb0c5ec",
+      "student": "David Lüttmann",
+      "topic": "Konzept und Implementierung einer System UI für Android Automotive am Beispiel eines Infotainmentsystems der Porsche AG, completed 19.02.2019",
+      "degree": "BSc",
+      "company": "",
+      "term": "Winter Semester 2018/19"
+    },
+    {
+      "id": "archive-ac26c25e8dc41ec9cde3",
+      "student": "Christof Hoste",
+      "topic": "Prototyp einer freihändigen App-Navigation per Eye-Tracking mit ARKit und TrueDepth, completed 28.02.2019",
+      "degree": "BSc",
+      "company": "",
+      "term": "Winter Semester 2018/19"
+    },
+    {
+      "id": "archive-e47f5e8c1102fd0f71b5",
+      "student": "Philipp Joseph",
+      "topic": "Cross Plattform Entwicklung für Augmented Reality Entwicklung mobiler AR Anwendungen mit dem Ahead-Of-Time Compiler RoboVM, completed 08.04.2019",
+      "degree": "MSc",
+      "company": "",
+      "term": "Winter Semester 2018/19"
+    }
+  ]
+}

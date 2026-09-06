@@ -1,0 +1,128 @@
+{
+  "semester": "ws24",
+  "term": "Winter Semester 2024",
+  "source": "WordPress archive and Notion thesis database",
+  "fetched": "2026-08-17T08:00:20.305Z",
+  "theses": [
+    {
+      "id": "archive-4fc3d0f25e003e535d46",
+      "student": "Chiara Purger",
+      "topic": "Portierung of iOS-Apps to Android – Analysis and Evaluation of existing solutions and frameworks, 27.12.2023",
+      "degree": "BSc",
+      "company": "",
+      "term": "Winter Semester 2024 (Research Semester)"
+    },
+    {
+      "id": "archive-ab8c25b03ca7c949516f",
+      "student": "Zack Walker",
+      "topic": "Enhancing an Autonomous Vehicle Simulation through Holoride Technology Integration: A Conceptual Framework and Development, ongoing",
+      "degree": "MSc",
+      "company": "",
+      "term": "Winter Semester 2024 (Research Semester)"
+    },
+    {
+      "id": "archive-7b8a1638541d208d39a8",
+      "student": "Kristin Saueressig",
+      "topic": "Influencing and creating moods via mobile applications – using the breathe-app as a case study for relaxation, ongoing",
+      "degree": "MSc",
+      "company": "",
+      "term": "Winter Semester 2024 (Research Semester)"
+    },
+    {
+      "id": "c6472ae189a04128b4c5b541f64e0cbe",
+      "student": "Julian Erne",
+      "topic": "Optimierung der Bedienung von Websites in Unity basierten Apps auf der Apple Vision Pro",
+      "degree": "BSc",
+      "company": "",
+      "term": "Winter Semester 2024"
+    },
+    {
+      "id": "17762850fa2a8042bdc5c6c1d98ffae2",
+      "student": "Markus Deutschkämer",
+      "topic": "Entwicklung und Evaluation eines Prototypens für Live-Kollaboration in Extended/Mixed Reality mit der Apple Vision Pro und 3DVerse",
+      "degree": "BSc",
+      "company": "HdM",
+      "term": "Winter Semester 2024"
+    },
+    {
+      "id": "1ce62850fa2a808cad29e81bbdab4401",
+      "student": "Marilena Brink",
+      "topic": "Immersive Asthmatherapie – Einsatzmöglichkeiten von Virtual Reality im E-Health-Bereich am Fallbeispiel der 2-4-6-8-10-Übung der AsthmaApp",
+      "degree": "MSc",
+      "company": "HdM",
+      "term": "Winter Semester 2024"
+    },
+    {
+      "id": "576f339a12734d01889c8080074ac60a",
+      "student": "Luca Wehner",
+      "topic": "Positive Nutzererlebnisse im Kontext digitaler Selbstoffenbarung: Eine empirische Untersuchung zum Einfluss des Gegenübers auf die Erfüllung psychologischer Bedürfnisse",
+      "degree": "MSc",
+      "company": "",
+      "term": "Winter Semester 2024"
+    },
+    {
+      "id": "6f344a93cef648258f2f9a6365fad82d",
+      "student": "Nikita Ferreira Lopes",
+      "topic": "Optimierung der User Experience durch Gamification in App-Onboarding-Prozessen",
+      "degree": "BSc",
+      "company": "HdM",
+      "term": "Winter Semester 2024"
+    },
+    {
+      "id": "13062850fa2a803a9a21f2e3e513dc07",
+      "student": "Luisa Lutz",
+      "topic": "Vergleich von VR- und Smartphone Achtsamkeits-App: Auswirkungen auf Stressreduktion und Nutzungsmotivation zur Ableitung von UX-Anforderungen",
+      "degree": "BSc",
+      "company": "HdM",
+      "term": "Winter Semester 2024"
+    },
+    {
+      "id": "14b62850fa2a802c9c5cfa33369b3a18",
+      "student": "Tim Peters",
+      "topic": "Conception and prototypical implementation of a multi-model and multi-agent workflow for web-development",
+      "degree": "MSc",
+      "company": "HdM",
+      "term": "Winter Semester 2024"
+    },
+    {
+      "id": "8fb5f8f0c32c4ceea8648317278b22ee",
+      "student": "Anna Nguyen",
+      "topic": "Nutzerzentrierte Datenschutzlösungen für vernetzte Fahrzeuge: Ein Ansatz zur Sicherung der Privatsphäre durch Benutzerkontrolle",
+      "degree": "BSc",
+      "company": "HdM",
+      "term": "Winter Semester 2024"
+    },
+    {
+      "id": "60ccaba9b9c44650a3fe0d0ceab779cc",
+      "student": "Steffen Singer",
+      "topic": "Neuentwicklung einer Webanwendung zur Angebotserstellung: Einsatz von User-Centered-Design zur Verbesserung der User Experience",
+      "degree": "BSc",
+      "company": "Bosch",
+      "term": "Winter Semester 2024"
+    },
+    {
+      "id": "bc3acfcbba8749cd829beaa505a3f113",
+      "student": "Alexander Kraus",
+      "topic": "OpenXR Integration",
+      "degree": "MSc",
+      "company": "Mercedes",
+      "term": "Winter Semester 2024"
+    },
+    {
+      "id": "5a19b7d27a8744889d2104845b784e60",
+      "student": "Teresa Kutzner",
+      "topic": "Topic Modeling mit genAI zur Analyse von User-Feedback",
+      "degree": "MSc",
+      "company": "Mercedes",
+      "term": "Winter Semester 2024"
+    },
+    {
+      "id": "fa71ac5de5c74d8dad1204c96cffe3d7",
+      "student": "Torben Ziegler",
+      "topic": "Data Privacy in the Age of Connected Cars: Industry Practices and Consumer Perspectives",
+      "degree": "MSc",
+      "company": "3SS",
+      "term": "Winter Semester 2024"
+    }
+  ]
+}

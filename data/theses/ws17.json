@@ -1,0 +1,80 @@
+{
+  "semester": "ws17",
+  "term": "Winter Semester 2017",
+  "source": "WordPress archive and Notion thesis database",
+  "fetched": "2026-08-17T08:00:20.305Z",
+  "theses": [
+    {
+      "id": "archive-1be8dcfad68646b3d2e3",
+      "student": "Paul Ciesla",
+      "topic": "Conception and prototypical implementation of position based Augmented Reality Clients for Virtual Reality applications. In cooperation with Lightshape. Finished 13.11.2017",
+      "degree": "BSc",
+      "company": "",
+      "term": "Winter Semester 2017"
+    },
+    {
+      "id": "archive-748f402434e2b43c9b38",
+      "student": "David Bochan",
+      "topic": "Development of an energy model application for e-vehicles. Thesis in cooperation with Porsche AG, R&D. Finished 26.4.2018",
+      "degree": "MSc",
+      "company": "",
+      "term": "Winter Semester 2017"
+    },
+    {
+      "id": "archive-512d2e1b6695a17dc9c8",
+      "student": "Aurelia Bachmann",
+      "topic": "Individuelle Mobilitätsinformationen in Echtzeit teilen und darstellen – Konzeption und prototypische Umsetzung einer Webanwendung. Thesis in cooperation with Moovel. Finished 26.1.2018",
+      "degree": "BSc",
+      "company": "",
+      "term": "Winter Semester 2017"
+    },
+    {
+      "id": "archive-dde9a240662d381062f9",
+      "student": "Douglas Sondheim",
+      "topic": "Backend-as-a-Service gekoppelt mit einem Application Gateway auf Basis von Docker Swarm. In cooperation with m-way solutions. Finished 28.2.2018",
+      "degree": "",
+      "company": "",
+      "term": "Winter Semester 2017"
+    },
+    {
+      "id": "archive-98a20d094b7acbfd4e6b",
+      "student": "Jannik Lorenz",
+      "topic": "Pros and Cons of Push Technologies in Combination with React Redux. Thesis in cooperation with Moovel. Finished 19.1.2018",
+      "degree": "",
+      "company": "",
+      "term": "Winter Semester 2017"
+    },
+    {
+      "id": "archive-f3d467d634ffcebfb0da",
+      "student": "Josefine Hartung",
+      "topic": "API Design – A Comparison of GraphQL with REST on an Example Implementation. Thesis in cooperation with Moovel. Completed 03.04.2018",
+      "degree": "",
+      "company": "",
+      "term": "Winter Semester 2017"
+    },
+    {
+      "id": "archive-5bc5793d2de3fb18e097",
+      "student": "Simon Schuster",
+      "topic": "Blockchains: Analysis, Conceptualisation and Implementation of a Blockchain-Based Micropayment Web Service. Thesis in cooperation with MeetNow! GmbH. Finished 3.4.2018",
+      "degree": "",
+      "company": "",
+      "term": "Winter Semester 2017"
+    },
+    {
+      "id": "archive-a25499baf7515bb17624",
+      "student": "Malte Lohrer",
+      "topic": "Continuous Integration der Diagnosetoolkette der Daimler AG. In cooperation with Daimler. Finished 5.4.2018",
+      "degree": "",
+      "company": "",
+      "term": "Winter Semester 2017"
+    },
+    {
+      "id": "archive-fe475c01a639c027afd2",
+      "student": "Nadine Adolf",
+      "topic": "Plattformunabhängige Tests für mobile Endgeräte. In cooperation with Bosch. Finished 3.4.2018",
+      "degree": "",
+      "company": "",
+      "term": "Winter Semester 2017"
+    }
+  ]
+}

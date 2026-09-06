@@ -1,0 +1,80 @@
+{
+  "semester": "ss22",
+  "term": "Summer Semester 2022",
+  "source": "WordPress archive and Notion thesis database",
+  "fetched": "2026-08-17T08:00:20.305Z",
+  "theses": [
+    {
+      "id": "archive-e199b69c2a9099f2b760",
+      "student": "Artur Bergen",
+      "topic": "Development of a self-hosted serverless web-application stack in a cloud agnostic manner, Master-Thesis, 30.08.2022, HdM",
+      "degree": "MSc",
+      "company": "",
+      "term": "Summer Semester 2022"
+    },
+    {
+      "id": "archive-5acc83baa9f3fba68ba1",
+      "student": "Aydin Mirzigayev",
+      "topic": "Bildbasierte Bestimmung von Pflanzen auf Wasserflächen: Konzept für einen schwimmfähigen Roboter zur Beseitigung von Pflanzen auf Wasserflächen, Bachelor thesis, 07.06.2022, HdM",
+      "degree": "BSc",
+      "company": "",
+      "term": "Summer Semester 2022"
+    },
+    {
+      "id": "archive-2d3ea223911404747e54",
+      "student": "Christian Heinz",
+      "topic": "Einfluss der User Experience einer Smart-Charging- Anwendung für Ökostrom-optimiertes Laden, Bachelor-Thesis, 29.08.2022, Mercedes-Benz AG",
+      "degree": "BSc",
+      "company": "",
+      "term": "Summer Semester 2022"
+    },
+    {
+      "id": "archive-1005eb33de23fbed086c",
+      "student": "Jonas Leitner",
+      "topic": "BLOCKCHAIN UND NFTS – SINNVOLLER EINSATZ JENSEITS VON KRYPTOWÄHRUNGEN? Konzeption und prototypische Implementierung einer NFT basierten Lösung zur sicheren Verwahrung von digitalen Fahrzeugdokumenten, Bachelor-Thesis, 11.07.2022, HdM",
+      "degree": "BSc",
+      "company": "",
+      "term": "Summer Semester 2022"
+    },
+    {
+      "id": "archive-1d82944f5c01505b6040",
+      "student": "Lennart Gastler",
+      "topic": "Comparison between Server Side Rendering (SSR) and JAMStack based (SSG) Isomorphic Web Applications in terms of performance and user experience taking into account modern distributed web infrastructure, Bachelor-Thesis, 28.04.2022, HdM",
+      "degree": "BSc",
+      "company": "",
+      "term": "Summer Semester 2022"
+    },
+    {
+      "id": "archive-91aeaa7c094ad125ca02",
+      "student": "Luca Krämer",
+      "topic": "Integration von IoT-Asset-Monitoring auf Basis des digitalen Gerätezwillings im cloudspezifischen Umfeld des Azure IoT-Hubs, Bachelor-Thesis, 31.08.2022, L-Mobile",
+      "degree": "BSc",
+      "company": "",
+      "term": "Summer Semester 2022"
+    },
+    {
+      "id": "archive-93cf0de40c5b380b3e7d",
+      "student": "Luca Wehner",
+      "topic": "Die Zukunft nachhaltiger Smart-Charging Apps – Features, Anwendungsszenarien und Interaktionswege, Bachelor-Thesis, 24.08.2022, Mercedes-Benz AG",
+      "degree": "BSc",
+      "company": "",
+      "term": "Summer Semester 2022"
+    },
+    {
+      "id": "archive-60c1018a81133a480e06",
+      "student": "Luisa Fröhlich",
+      "topic": "Konzeption und Realisierung eines interaktiven Anwendererlebnisses auf Basis des Apple Shazam Kits, Master-Thesis, 30.09.2022, exxeta AG",
+      "degree": "MSc",
+      "company": "",
+      "term": "Summer Semester 2022"
+    },
+    {
+      "id": "archive-a27543da88d0f35ff228",
+      "student": "Thomas Marquardt",
+      "topic": "Evaluation des Einsatzes von gRPC in Enterprise Webanwendungen im Vergleich zu RESTful APIs, 30.08.2022, SprintEins GmbH",
+      "degree": "",
+      "company": "",
+      "term": "Summer Semester 2022"
+    }
+  ]
+}

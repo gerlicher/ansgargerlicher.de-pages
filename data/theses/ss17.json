@@ -1,0 +1,104 @@
+{
+  "semester": "ss17",
+  "term": "Summer Semester 2017",
+  "source": "WordPress archive and Notion thesis database",
+  "fetched": "2026-08-17T08:00:20.305Z",
+  "theses": [
+    {
+      "id": "archive-a8f72f1019656e4e4834",
+      "student": "Michael Stoll",
+      "topic": "Conception and evaluation of a prototype infotainment system based on Automotive Grade Linux and the SmartDeviceLink technology. Completion date 4.10.2017. Thesis at the HdM",
+      "degree": "BSc",
+      "company": "",
+      "term": "Summer Semester 2017"
+    },
+    {
+      "id": "archive-3537bf744c713ae8366f",
+      "student": "Philipp Burger",
+      "topic": "Mobile Remote Diagnosis (working title), Thesis in cooperation with Daimler AG, R&D. Completion date 7.9.2017.",
+      "degree": "MSc",
+      "company": "",
+      "term": "Summer Semester 2017"
+    },
+    {
+      "id": "archive-7e02e957578ba2357dbe",
+      "student": "Denny Scarlino",
+      "topic": "Evaluation of AR-Frameworks by example for a digital card-based innovation tool. Completion date 6.9.2017. Thesis at the HdM",
+      "degree": "BSc",
+      "company": "",
+      "term": "Summer Semester 2017"
+    },
+    {
+      "id": "archive-af7874f98c63e063441e",
+      "student": "Manuel Schulze",
+      "topic": "Conception and prototypical implementation of an application user interface for filtering e-mails depending on context using User-Centered-Design. Completion date 11.9.2017. Thesis in cooperation with the Swinburne University, Melbourne, Australia",
+      "degree": "BSc",
+      "company": "",
+      "term": "Summer Semester 2017"
+    },
+    {
+      "id": "archive-a59004d277564136ed77",
+      "student": "Paul Pflug",
+      "topic": "Evaluation of distinct cloud-services for mobile app backend provisioning by example of an audit app. Completion date 19.9.2017. Thesis in cooperation with FRIDIEinteractive",
+      "degree": "BSc",
+      "company": "",
+      "term": "Summer Semester 2017"
+    },
+    {
+      "id": "archive-826e503d93664568f599",
+      "student": "Sven Lindauer",
+      "topic": "Background Synchronization and Push Notifications within the Progressive Web. Completion date 21.9.2017.",
+      "degree": "MSc",
+      "company": "",
+      "term": "Summer Semester 2017"
+    },
+    {
+      "id": "archive-da493aed9f6e57bb39fa",
+      "student": "Tobias Schmücker",
+      "topic": "Visualisation and Parametrization of Organoid Models Using Web Technologies for 3D Bioprinting. Completion date 17.7.2017. Thesis with blocking notice (confidential).",
+      "degree": "BSc",
+      "company": "",
+      "term": "Summer Semester 2017"
+    },
+    {
+      "id": "archive-9911d026e0c2e5940455",
+      "student": "Calieston Varatharajah",
+      "topic": "Conception and evaluation of a Product Data Delivery Platform for efficient provisioning of production data within Product Information Management Systems for e-commerce platforms. Due date 16.01.2018.",
+      "degree": "MSc",
+      "company": "",
+      "term": "Summer Semester 2017"
+    },
+    {
+      "id": "archive-e21b15d3057ddbd82ddf",
+      "student": "Anna Poth",
+      "topic": "Mobile Service for IoT Guiding Systems. Completion date 5.9.2017. In cooperation with logic line GmbH.",
+      "degree": "MSc",
+      "company": "",
+      "term": "Summer Semester 2017"
+    },
+    {
+      "id": "archive-db35850f0ee87204e53e",
+      "student": "Achim Asirkbekov",
+      "topic": "Conceptualisation and Implementation of a Purchase-Platform for SMEs in cooperation with Areus Engineering. Completion date 22.9.2017",
+      "degree": "BSc",
+      "company": "",
+      "term": "Summer Semester 2017"
+    },
+    {
+      "id": "archive-e5d44fb3d55db1ff8fb9",
+      "student": "Kevin Fischer",
+      "topic": "iBeacon Management System in cooperation with entrecode GmbH. Completion date: 7.8.2017.",
+      "degree": "",
+      "company": "",
+      "term": "Summer Semester 2017"
+    },
+    {
+      "id": "archive-53f032013d19ba420c03",
+      "student": "Lisa Philipp",
+      "topic": "Interconnection of CAN Bus and Unreal Engine for Visualization of Vehicle Data. Master thesis in cooperation with Bosch Engineering GmbH. Completion date: 19.9.2017.",
+      "degree": "MSc",
+      "company": "",
+      "term": "Summer Semester 2017"
+    }
+  ]
+}

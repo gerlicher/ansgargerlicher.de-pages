@@ -1,0 +1,120 @@
+{
+  "semester": "ws16",
+  "term": "Winter Semester 2016",
+  "source": "WordPress archive and Notion thesis database",
+  "fetched": "2026-08-17T08:00:20.305Z",
+  "theses": [
+    {
+      "id": "archive-6db93fa1a8a8b826e320",
+      "student": "Jennifer Zajac",
+      "topic": "Conceptualization and Prototypical Implementation of Security in Cloud-Based Systems for Connected Vehicles. Completion date: 25.4.2017. Thesis in cooperation with Daimler TSS GmbH",
+      "degree": "MSc",
+      "company": "",
+      "term": "Winter Semester 2016"
+    },
+    {
+      "id": "archive-cd9be364bfaff4882807",
+      "student": "Antonia Böttinger",
+      "topic": "Prototypical Realisation of a Future-Oriented Digital Touchpoint for an Insurance Market Leader, Increasing Customer Satisfaction and Retention. Completion date: 27.4.2017. Thesis in cooperation with diconium digital solutions GmbH.",
+      "degree": "MSc",
+      "company": "",
+      "term": "Winter Semester 2016"
+    },
+    {
+      "id": "archive-bdda64a49abb3ef157b9",
+      "student": "Valentin Kauth",
+      "topic": "Prediction of Critical Health Situations in the Vehicle Context and Prototypical Implementation of a Warning System. Completion date: 30.01.2017",
+      "degree": "BSc",
+      "company": "",
+      "term": "Winter Semester 2016"
+    },
+    {
+      "id": "archive-682662b04fc35d542e34",
+      "student": "Phillip Stolz",
+      "topic": "Conception and implementation of an iBeacon management system. Completion date: 13.03.2017",
+      "degree": "BSc",
+      "company": "",
+      "term": "Winter Semester 2016"
+    },
+    {
+      "id": "archive-064d3ba8602837e72ab2",
+      "student": "Pascal Weik",
+      "topic": "Conception and development of an Android assistant-application in the area of “connected truck” for the discharging of commercial vehicles with Fleetboard telematic unit. Completion date: 21.4.2017. In cooperation with Gigatronik GmbH",
+      "degree": "BSc",
+      "company": "",
+      "term": "Winter Semester 2016"
+    },
+    {
+      "id": "archive-1263a97836eee2071707",
+      "student": "Pascal Spicker",
+      "topic": "Integration of Mobile Applications into Existing IT Systems Using an iOS Foreign Trade Application as an Example. Completion date: March 6th, 2017. Thesis in cooperation with Daimler AG.",
+      "degree": "BSc",
+      "company": "",
+      "term": "Winter Semester 2016"
+    },
+    {
+      "id": "archive-69cf0d59b71abe84d6a4",
+      "student": "Nico Gerdung",
+      "topic": "Implications of emerging web-technologies on front-end development. In cooperation with Daimler AG. Completion date 04.07.2017.",
+      "degree": "MSc",
+      "company": "",
+      "term": "Winter Semester 2016"
+    },
+    {
+      "id": "archive-108b85a0fe798104bb4f",
+      "student": "Marco Milovanovic",
+      "topic": "Recommending a technology stack for the development of a mobile app backend platform. Completion date: 20.03.2017",
+      "degree": "BSc",
+      "company": "",
+      "term": "Winter Semester 2016"
+    },
+    {
+      "id": "archive-9facd6f98d5dc0b0e0c3",
+      "student": "Manuel Schwandt",
+      "topic": "Development of an application for tracking real and generation realistic driving data. In cooperation with Porsche AG. Completion date: 19.06.2017",
+      "degree": "MSc",
+      "company": "",
+      "term": "Winter Semester 2016"
+    },
+    {
+      "id": "archive-9ed40971f8c105bef5c1",
+      "student": "Manuel Kalla",
+      "topic": "Evaluation of web application technologies for rapid prototyping. In cooperation with Daimler AG. Completion date: 04.07.2017",
+      "degree": "MSc",
+      "company": "",
+      "term": "Winter Semester 2016"
+    },
+    {
+      "id": "archive-38e96642c174b6bb0e58",
+      "student": "Lasse Schölkopf",
+      "topic": "Using VR Environments for Interaction Evaluation in the Driving Context. Completion date: 28.3.2017",
+      "degree": "BSc",
+      "company": "",
+      "term": "Winter Semester 2016"
+    },
+    {
+      "id": "archive-c62c3473aeabf710928b",
+      "student": "Gabriela Seiffer",
+      "topic": "Pedestrian dead reckoning – Development of an indoor tracking algorithm based on smartphone sensors. Completion date 1.3.2017. Thesis in cooperation with M-Way Solutions GmbH.",
+      "degree": "MSc",
+      "company": "",
+      "term": "Winter Semester 2016"
+    },
+    {
+      "id": "archive-f3000b18190ec8b72ddf",
+      "student": "Florian Rettenmaier",
+      "topic": "Conception, implementation and evaluation of a smart ship cabin with focus on speech control by example on TUI Cruises. Completion date: 31.3.2017. In cooperation with Cellular",
+      "degree": "BSc",
+      "company": "",
+      "term": "Winter Semester 2016"
+    },
+    {
+      "id": "archive-032af798e973be97da84",
+      "student": "Eric Birgel",
+      "topic": "Software concept for extension of the ProToF Fielddevices with Bluetooth Low Energy, Completion date: 23.03.2017. Thesis in cooperation with Endress + Hauser",
+      "degree": "BSc",
+      "company": "",
+      "term": "Winter Semester 2016"
+    }
+  ]
+}

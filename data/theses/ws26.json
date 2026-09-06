@@ -1,0 +1,32 @@
+{
+  "semester": "ws26",
+  "term": "Winter Semester 2026",
+  "source": "WordPress archive and Notion thesis database",
+  "fetched": "2026-08-17T08:00:20.305Z",
+  "theses": [
+    {
+      "id": "3a462850fa2a8015ae09dbc3f5a48e8b",
+      "student": "Moritz Schuh",
+      "topic": "Designing Comfortable AR Content: Investigating Text Presentation Strategies to Reduce Eye Strain in Augmented Reality",
+      "degree": "BSc",
+      "company": "",
+      "term": "Winter Semester 2026"
+    },
+    {
+      "id": "3a462850fa2a80acb622cd4b8f114739",
+      "student": "Yannik Schlütter",
+      "topic": "AR Interaction Design Using Physical Spatial Anchors",
+      "degree": "BSc",
+      "company": "",
+      "term": "Winter Semester 2026"
+    },
+    {
+      "id": "3a462850fa2a80e390e8fff6b1581c15",
+      "student": "Dominik Langenbeck",
+      "topic": "Designing Comfortable AR Content",
+      "degree": "BSc",
+      "company": "",
+      "term": "Winter Semester 2026"
+    }
+  ]
+}

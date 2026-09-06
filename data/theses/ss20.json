@@ -1,0 +1,96 @@
+{
+  "semester": "ss20",
+  "term": "Summer Semester 2020",
+  "source": "WordPress archive and Notion thesis database",
+  "fetched": "2026-08-17T08:00:20.305Z",
+  "theses": [
+    {
+      "id": "archive-63666f9481a88d96a52d",
+      "student": "Niko Ruthardt",
+      "topic": "Mobility Match-Making Apps and Ride Sharing as a Service for Car-Sharing Platforms, completed 21.9.20",
+      "degree": "BSc",
+      "company": "",
+      "term": "Summer Semester 2020"
+    },
+    {
+      "id": "archive-6c053a06410f837cefa7",
+      "student": "Maximilian Tränker",
+      "topic": "Development of a Match-Making System Concept for Autonomous Shuttles in order to improve the User Experience , completed 30.11.20",
+      "degree": "MSc",
+      "company": "",
+      "term": "Summer Semester 2020"
+    },
+    {
+      "id": "archive-1e09b10b1a18d437864d",
+      "student": "Carlo Knödler",
+      "topic": "Hybrid AI in autonomous vehicles , completed 1.7.20",
+      "degree": "BSc",
+      "company": "",
+      "term": "Summer Semester 2020"
+    },
+    {
+      "id": "archive-3a1e1c31762076ca4dfb",
+      "student": "Ercan Sezer",
+      "topic": "Conception & Development of an Web-Based Ordering Platform for Company Purchasing Departments , completed 8.9.20",
+      "degree": "BSc",
+      "company": "",
+      "term": "Summer Semester 2020"
+    },
+    {
+      "id": "archive-7676651ea250cd96b3f5",
+      "student": "Egzon Shala",
+      "topic": "Development of UX Design for Web-Based Ordering Platforms , completed 8.9.20",
+      "degree": "BSc",
+      "company": "",
+      "term": "Summer Semester 2020"
+    },
+    {
+      "id": "archive-dddb64a519ff5281ed95",
+      "student": "Erik Großkopf",
+      "topic": "Using Machine Learning for Mobile Cross-Platform Development by Example of TensorFlow Lite, completed 1.8.20",
+      "degree": "BSc",
+      "company": "",
+      "term": "Summer Semester 2020"
+    },
+    {
+      "id": "archive-1986dce02c419b293716",
+      "student": "Fabiola Dums",
+      "topic": "Developer Experience of cross-platform app frameworks – MobileUI vs. Ionic , completed 6.8.20",
+      "degree": "BSc",
+      "company": "",
+      "term": "Summer Semester 2020"
+    },
+    {
+      "id": "archive-92bf5044f9cd6bd35bd0",
+      "student": "Felix Dimmler",
+      "topic": "Connected Car-APIs , completed 12.8.20",
+      "degree": "BSc",
+      "company": "",
+      "term": "Summer Semester 2020"
+    },
+    {
+      "id": "archive-34082ee8c29728ff986d",
+      "student": "Lisia Dutt",
+      "topic": "Practical Evaluation of Object Recognition in iOS using CoreML and ARKit , completed 21.9.20",
+      "degree": "BSc",
+      "company": "",
+      "term": "Summer Semester 2020"
+    },
+    {
+      "id": "archive-39dbc1b1cae5e6bc9e93",
+      "student": "Marcel-Ioannis Gregoriadis",
+      "topic": "Test scenarios in a serverless context , completed 18.8.20",
+      "degree": "BSc",
+      "company": "",
+      "term": "Summer Semester 2020"
+    },
+    {
+      "id": "archive-974d301303a17dfb7e28",
+      "student": "Henrik Wirth",
+      "topic": "Analysis of frameworks with a Jamstack approach for building modern web applications, based on different requirements , completed 28.7.20",
+      "degree": "BSc",
+      "company": "",
+      "term": "Summer Semester 2020"
+    }
+  ]
+}

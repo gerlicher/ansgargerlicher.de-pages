@@ -1,0 +1,176 @@
+{
+  "semester": "ws15",
+  "term": "Winter Semester 2015",
+  "source": "WordPress archive and Notion thesis database",
+  "fetched": "2026-08-17T08:00:20.305Z",
+  "theses": [
+    {
+      "id": "archive-753dd0edb26f8dc30047",
+      "student": "Alexander Barth",
+      "topic": "Evaluation of Push-Services between Production Lines and Mobile Devices. February 23, 2016",
+      "degree": "BSc",
+      "company": "",
+      "term": "Winter Semester 2015"
+    },
+    {
+      "id": "archive-3b9202dc9dfc856bb0c7",
+      "student": "Alexander Dercho",
+      "topic": "Digitalisation of Card Games. February 4, 2016",
+      "degree": "BSc",
+      "company": "",
+      "term": "Winter Semester 2015"
+    },
+    {
+      "id": "archive-72fdf18a67f7a30517aa",
+      "student": "Alexander Walger",
+      "topic": "The Agent Framework – a mobile multi-agent system with an adaptive multi-modal user interface. May 1st, 2016",
+      "degree": "MSc",
+      "company": "",
+      "term": "Winter Semester 2015"
+    },
+    {
+      "id": "archive-fe055b570a7b2bd7e562",
+      "student": "Christian Lang",
+      "topic": "Conception and Realisation of a Client-Server Solution for Location- and Name-Based Provisioning of Heterogeneous Map Data. January 18, 2016",
+      "degree": "BSc",
+      "company": "",
+      "term": "Winter Semester 2015"
+    },
+    {
+      "id": "archive-ae3a3add42410eb32366",
+      "student": "Claudia Kutz",
+      "topic": "System for Analysis and Visualization of Transport Data for the Management. April 12, 2016",
+      "degree": "BSc",
+      "company": "",
+      "term": "Winter Semester 2015"
+    },
+    {
+      "id": "archive-2985de065c1d69061132",
+      "student": "Elias Schreiner",
+      "topic": "UI Migration of the APM Application “inspectIT” from Eclipse RCP Version 3 to 4. February 2. 2016",
+      "degree": "BSc",
+      "company": "",
+      "term": "Winter Semester 2015"
+    },
+    {
+      "id": "archive-2a48c9491c7ccf96fbb9",
+      "student": "Hannah Frey",
+      "topic": "Hybride Hype – Comparison of Native and Hybrid Components of a Business App. January 20, 2016",
+      "degree": "BSc",
+      "company": "",
+      "term": "Winter Semester 2015"
+    },
+    {
+      "id": "archive-5bf8ec5e677d84213ea3",
+      "student": "Heiko Storz",
+      "topic": "The Agent Framework – Creating an Adaptive Multi-Modal User Interface for a Mobile Multi-Agent System. May 1st, 2016",
+      "degree": "MSc",
+      "company": "",
+      "term": "Winter Semester 2015"
+    },
+    {
+      "id": "archive-e109c42ef3aa5d384723",
+      "student": "Jakob Pelz",
+      "topic": "Visualisation of a Tunnel-in-the-Sky View on Android. February 29, 2016",
+      "degree": "BSc",
+      "company": "",
+      "term": "Winter Semester 2015"
+    },
+    {
+      "id": "archive-261ff178b137ba776e53",
+      "student": "Kristina Haar",
+      "topic": "Comparison of Mobile Device to Vehicle Integration Technologies and IVI-Systems in Terms of Future Business Models. February 29, 2016",
+      "degree": "BSc",
+      "company": "",
+      "term": "Winter Semester 2015"
+    },
+    {
+      "id": "archive-24d3e4a0db12429d2706",
+      "student": "Lucas Spieß",
+      "topic": "Modularization and Inter-Module Communication in a Statically Compiled Mobile Library for Apple Platforms. April 5, 2016",
+      "degree": "BSc",
+      "company": "",
+      "term": "Winter Semester 2015"
+    },
+    {
+      "id": "archive-f803c2f414b3642f05cc",
+      "student": "Marcel Schmitt",
+      "topic": "Adaptive and Dynamic User-Interfaces for Automatisation Devices. February 29, 2016",
+      "degree": "BSc",
+      "company": "",
+      "term": "Winter Semester 2015"
+    },
+    {
+      "id": "archive-02df449ffffd57b724bd",
+      "student": "Markus Noack",
+      "topic": "Integration of Internet of Things Related Information in Enterprise Processes. March 2016",
+      "degree": "MSc",
+      "company": "",
+      "term": "Winter Semester 2015"
+    },
+    {
+      "id": "archive-dc3aec415d02497f2e48",
+      "student": "Matthias Hausner",
+      "topic": "Implementation and Evaluation of Smartwatch-based Authentication Methods. July 18, 2016",
+      "degree": "MSc",
+      "company": "",
+      "term": "Winter Semester 2015"
+    },
+    {
+      "id": "archive-699da3e25e4d5c7f05ef",
+      "student": "Michael Locher",
+      "topic": "Development of a Hybrid App to Interact with Bluetooth Low Energy Beacons on the Example of Gyms. February 10, 2016",
+      "degree": "BSc",
+      "company": "",
+      "term": "Winter Semester 2015"
+    },
+    {
+      "id": "archive-a61d09392b434d0bc22b",
+      "student": "Philipp Reik",
+      "topic": "Conception and Evaluation of a Beacon Strategy by Example of a Fitness Studio. February 10, 2016",
+      "degree": "BSc",
+      "company": "",
+      "term": "Winter Semester 2015"
+    },
+    {
+      "id": "archive-180660134dbe06ee344e",
+      "student": "Sandra Moraa",
+      "topic": "The Change in Mobile Finance Services. January 28, 2016",
+      "degree": "BSc",
+      "company": "",
+      "term": "Winter Semester 2015"
+    },
+    {
+      "id": "archive-f026d8f78b43977266a1",
+      "student": "Steffen Hinderer",
+      "topic": "Design and Implementation of a Connected Car to Smart Home Prototyping Platform. April 22, 2016",
+      "degree": "MSc",
+      "company": "",
+      "term": "Winter Semester 2015"
+    },
+    {
+      "id": "archive-7143ccbb2a436885642c",
+      "student": "Tobias Stricker",
+      "topic": "Conceptualization and Prototypical Implementation of a Mobile Brainstorming Tool -User Experience Case Study-. March 20, 2016",
+      "degree": "BSc",
+      "company": "",
+      "term": "Winter Semester 2015"
+    },
+    {
+      "id": "archive-8b1a2427e62f50ab91b9",
+      "student": "Vitali Leschinger",
+      "topic": "Development of an Automated Test for Variant Coding. January 4, 2016",
+      "degree": "BSc",
+      "company": "",
+      "term": "Winter Semester 2015"
+    },
+    {
+      "id": "archive-5fd5e80c7fb8693fffa4",
+      "student": "Matthias Rieger",
+      "topic": "Smartphone Sensor-based Activity Tracking. February 29, 2016",
+      "degree": "BSc",
+      "company": "",
+      "term": "Winter Semester 2015"
+    }
+  ]
+}

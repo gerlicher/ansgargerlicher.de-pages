@@ -1,0 +1,88 @@
+{
+  "semester": "ws20",
+  "term": "Winter Semester 2020",
+  "source": "WordPress archive and Notion thesis database",
+  "fetched": "2026-08-17T08:00:20.305Z",
+  "theses": [
+    {
+      "id": "archive-175ccc90a70f33a5f257",
+      "student": "Johannes Mauthe",
+      "topic": "Evaluation of Frameworks for Tracking Three-Dimensional Objects for Augmented Reality. Completed 26.7.2021.",
+      "degree": "MSc",
+      "company": "",
+      "term": "Winter Semester 2020/21"
+    },
+    {
+      "id": "archive-5b8925c28f7121c1bb4a",
+      "student": "Dennis Moors",
+      "topic": "Context-Dependent Visualization of Information with Augmented Reality (Kontextabhängige Anzeige von Informationen in einer Augmented Reality) in cooperation with iteratec. Completed 1.2.21.",
+      "degree": "BSc",
+      "company": "",
+      "term": "Winter Semester 2020/21"
+    },
+    {
+      "id": "archive-d9d80d33ca9c48361bc6",
+      "student": "Ines Kranich",
+      "topic": "Analysis and Conception of Requirements for a Future Workplace in Disposition by Example at Porsche AG (Analyse und Konzeption der Anforderungen an einen Arbeitsplatz der Zukunft in der Disposition am Beispiel der Porsche AG) in cooperation with Porsche AG. Completed 31.1.21.",
+      "degree": "BSc",
+      "company": "",
+      "term": "Winter Semester 2020/21"
+    },
+    {
+      "id": "archive-644e9f4abefd0a490c90",
+      "student": "Malte Lohrer",
+      "topic": "Early Detection of Quality Changes in Software by Analysis of Continuous Integration Pipelines by Example of Autonomous Driving in cooperation with Daimler AG. Completed 8.4.21",
+      "degree": "MSc",
+      "company": "",
+      "term": "Winter Semester 2020/21"
+    },
+    {
+      "id": "archive-3f9e2e993f6b6d4f1e61",
+      "student": "Miro Bilge",
+      "topic": "Evaluation of Ultra Wide Band Technology as an Extension for RSSI Based Location Estimation in cooperation with M-Way Solutions GmbH. Completed 22.4.21.",
+      "degree": "MSc",
+      "company": "",
+      "term": "Winter Semester 2020/21"
+    },
+    {
+      "id": "archive-1064ea9eef63a5aa493e",
+      "student": "Sandra Gally",
+      "topic": "Improving User Experience of Passengers in Autonomous Vehicles using Anthropomorph In-Car Systems in Different Driving Situations at the Stuttgart Media University. Completed 14.1.21.",
+      "degree": "BSc",
+      "company": "",
+      "term": "Winter Semester 2020/21"
+    },
+    {
+      "id": "archive-dc4dbfcd7903e4ffb729",
+      "student": "Tim Landenberger",
+      "topic": "Evaluation of usage scenarios for Web-Assembly in cooperation with Inovex GmbH. Completed 31.5.21.",
+      "degree": "MSc",
+      "company": "",
+      "term": "Winter Semester 2020/21"
+    },
+    {
+      "id": "archive-1743509ea324c1f16076",
+      "student": "Sebastian Wachter",
+      "topic": "Development and Evaluation of a Web Application for Interaction between Autonomous Vehicles and their Passengers at the Stuttgart Media University. Completed 23.8.2021.",
+      "degree": "MSc",
+      "company": "",
+      "term": "Winter Semester 2020/21"
+    },
+    {
+      "id": "archive-8a4daaa837a3296e54d1",
+      "student": "Jannik Schlemmer",
+      "topic": "Simplification of Video Analysis in Sports by Standardization of Live Video Tagging Data Formats at Stuttgart Media University. Completed 12.4.21.",
+      "degree": "BSc",
+      "company": "",
+      "term": "Winter Semester 2020/21"
+    },
+    {
+      "id": "archive-0e554b67598887b54c01",
+      "student": "Moritz Storz",
+      "topic": "Use Cases and User Experience of Instant-Apps: Development of App Clips in the Context of Restaurant Bookings in cooperation with Adrodev. Completed 21.7.2021.",
+      "degree": "MSc",
+      "company": "",
+      "term": "Winter Semester 2020/21"
+    }
+  ]
+}

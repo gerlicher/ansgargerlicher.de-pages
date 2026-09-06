@@ -1,0 +1,120 @@
+{
+  "semester": "ws22",
+  "term": "Winter Semester 2022",
+  "source": "WordPress archive and Notion thesis database",
+  "fetched": "2026-08-17T08:00:20.305Z",
+  "theses": [
+    {
+      "id": "archive-978a8c6e70c04d2b5401",
+      "student": "Anne Schmachtenberger",
+      "topic": "Visualisierung eines KI basierten Decision-Support-System für Revierförster zur Schaffung von Transparenz und Vertrauen",
+      "degree": "",
+      "company": "",
+      "term": "Winter Semester 2022"
+    },
+    {
+      "id": "archive-c918d1775ad3cab2edf7",
+      "student": "Florian Skobowsky",
+      "topic": "Konzeption und Entwicklung eines prototypischen Systems zur Digitalisierung der Bestandsermittlung und Bestellprozesse von Konsumgütern mit Hilfe einer mobilen Anwendung",
+      "degree": "",
+      "company": "",
+      "term": "Winter Semester 2022"
+    },
+    {
+      "id": "archive-cd9aba51859e78e916fd",
+      "student": "Niklas Schildhauer",
+      "topic": "Konzeption und Entwicklung einer Anwendung zur Digitalisierung der Kontrolltermine beim Hautarzt",
+      "degree": "",
+      "company": "",
+      "term": "Winter Semester 2022"
+    },
+    {
+      "id": "archive-b68200f3ad876e79b300",
+      "student": "Christof Schwarzenberger",
+      "topic": "Charging Experiences for the Cars of the Future, Mercedes-Benz AG",
+      "degree": "",
+      "company": "",
+      "term": "Winter Semester 2022"
+    },
+    {
+      "id": "archive-d6abad868516d942971d",
+      "student": "Cornelius Imhof",
+      "topic": "Design und Umsetzung einer zentral verwaltbaren und flexibel einsetzbaren IoT-Plattform",
+      "degree": "",
+      "company": "",
+      "term": "Winter Semester 2022"
+    },
+    {
+      "id": "archive-4cf536b04a51ebfca258",
+      "student": "Lukas Zahel",
+      "topic": "Konzeption und Entwicklung eines prototypischen Systems zur Digitalisierung der Bestandsermittlung und Bestellprozesse von Konsumgütern mit Hilfe einer mobilen Anwendung, doubleSlash",
+      "degree": "",
+      "company": "",
+      "term": "Winter Semester 2022"
+    },
+    {
+      "id": "archive-cd2238360cf071517569",
+      "student": "Salome Wecks",
+      "topic": "tbd.",
+      "degree": "",
+      "company": "",
+      "term": "Winter Semester 2022"
+    },
+    {
+      "id": "archive-41508118a1454f014904",
+      "student": "Minh Vu Nguyen",
+      "topic": "Konzeption und Implementierung eines CLI-Tools, um die Einrichtung einer Fullstack Webapplikation zu automatisieren und die Entwicklungsprozesse eines Softwareentwicklers zu optimieren",
+      "degree": "",
+      "company": "",
+      "term": "Winter Semester 2022"
+    },
+    {
+      "id": "archive-54e0d449a36f148a0124",
+      "student": "Torben Ziegler",
+      "topic": "Contextualization through use of dynamic vehicle & user data to personalize in-car entertainment experience, 3SS, completed 09.01.2023",
+      "degree": "",
+      "company": "",
+      "term": "Winter Semester 2022"
+    },
+    {
+      "id": "archive-a1a98b37a7935e0d902d",
+      "student": "Nicole Wölfel",
+      "topic": "tbd.",
+      "degree": "",
+      "company": "",
+      "term": "Winter Semester 2022"
+    },
+    {
+      "id": "88e2569871c84340b333180ac5368c51",
+      "student": "Robin Mayer",
+      "topic": "Die Nutzung von Augmented Reality bei physischen Einrichtungsprozessen",
+      "degree": "BSc",
+      "company": "",
+      "term": "Winter Semester 2022"
+    },
+    {
+      "id": "5ba985c37a5e4c378e0a03d9ac27d82a",
+      "student": "Jasmin Dröscher",
+      "topic": "Edge Computing in the context of Smart Home Technologies based on GraalVM and Quarkus",
+      "degree": "BSc",
+      "company": "",
+      "term": "Winter Semester 2022"
+    },
+    {
+      "id": "9146760b16354f98a47449762a6de043",
+      "student": "Dennis Schmidt",
+      "topic": "Einbindung und Verwaltung von Remote-Speicher in mobilen Endgeräten mit Hilfe von Mobile Device Management Systemen",
+      "degree": "BSc",
+      "company": "",
+      "term": "Winter Semester 2022"
+    },
+    {
+      "id": "8d41f2b0b15c4888888d27a9ddd4b77b",
+      "student": "Fabiola Dums",
+      "topic": "Concept and development of a prototypical App Clip for a shared e-scooter rental app",
+      "degree": "MSc",
+      "company": "",
+      "term": "Winter Semester 2022"
+    }
+  ]
+}

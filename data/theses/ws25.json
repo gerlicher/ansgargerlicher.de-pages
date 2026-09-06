@@ -1,0 +1,24 @@
+{
+  "semester": "ws25",
+  "term": "Winter Semester 2025",
+  "source": "WordPress archive and Notion thesis database",
+  "fetched": "2026-08-17T08:00:20.305Z",
+  "theses": [
+    {
+      "id": "2ae62850fa2a8073b6c5e498624fdba8",
+      "student": "Selina Fiona Wolf",
+      "topic": "Dynamic UI:Vehicle-Dynamics-Linked Interfaces on transparent screens",
+      "degree": "MSc",
+      "company": "Mercedes",
+      "term": "Winter Semester 2025"
+    },
+    {
+      "id": "2fc62850fa2a8027a63ff16edcd72858",
+      "student": "Madleen Willmann",
+      "topic": "Veränderungen im Prozess des High-Fidelity-Prototyping durch den Einsatz von Generativer KI",
+      "degree": "MSc",
+      "company": "Iteratec",
+      "term": "Winter Semester 2025"
+    }
+  ]
+}

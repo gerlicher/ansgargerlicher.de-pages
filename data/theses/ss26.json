@@ -1,0 +1,80 @@
+{
+  "semester": "ss26",
+  "term": "Summer Semester 2026",
+  "source": "WordPress archive and Notion thesis database",
+  "fetched": "2026-08-17T08:00:20.305Z",
+  "theses": [
+    {
+      "id": "29c62850fa2a8094a5dfc5c8f89d275c",
+      "student": "Marvin Helmer",
+      "topic": "Design and Implementation of a Generative Remote UI System",
+      "degree": "BSc",
+      "company": "Pyck",
+      "term": "Summer Semester 2026"
+    },
+    {
+      "id": "2f462850fa2a80ddbe41ee171b4d153f",
+      "student": "Sophia Ladwig",
+      "topic": "UX Design und Evaluation eines Atempacers für Atemübungen am Beispiel einer App für Asthmapatienten",
+      "degree": "BSc",
+      "company": "HdM",
+      "term": "Summer Semester 2026"
+    },
+    {
+      "id": "2bc62850fa2a80878005f475d69adb77",
+      "student": "Laila Jerusalem",
+      "topic": "Motivation oder Manipulation? Der Einfluss von Verlustaversion in Streak-Mechanismen digitaler Anwendungen und das Design ethischer UX-Alternativen",
+      "degree": "BSc",
+      "company": "HdM",
+      "term": "Summer Semester 2026"
+    },
+    {
+      "id": "2b662850fa2a80b7af85eda69bde6670",
+      "student": "Maximilian Dolbaum",
+      "topic": "Evaluation of a Large Scale Software Architecture on industry standards and proposal for improvements or reiteration",
+      "degree": "MSc",
+      "company": "HdM / Mercedes",
+      "term": "Summer Semester 2026"
+    },
+    {
+      "id": "31a62850fa2a80bbb630d7368f843b19",
+      "student": "Michael Jaufmann",
+      "topic": "KI-gestützte Fehlerdiagnose im Ingenieurwesen: Ein datenbasierter Workflow",
+      "degree": "BSc",
+      "company": "SWR",
+      "term": "Summer Semester 2026"
+    },
+    {
+      "id": "29c62850fa2a803097faf5439c87b4dc",
+      "student": "Manuel Veit",
+      "topic": "Welche Designpattern fördern nachhaltiges und nicht-manipulierendes Selbstmanagement bei chronischen Erkrankungen?",
+      "degree": "BSc",
+      "company": "HdM",
+      "term": "Summer Semester 2026"
+    },
+    {
+      "id": "27162850fa2a802abd72e6072ae784da",
+      "student": "Franziska Link",
+      "topic": "CRM-Strategie zur Verbesserung der User Experience und Nutzerbindung – Steuerbot",
+      "degree": "BSc",
+      "company": "Steuerbot",
+      "term": "Summer Semester 2026"
+    },
+    {
+      "id": "2ae62850fa2a800f910dfe049b5f1012",
+      "student": "Jan Hübner",
+      "topic": "E-Health mit UX: z.B. unterschiedliche Darstellungsweisen von Chatbots oder der Einfluss von Microinteractions in KI-basierten Tools",
+      "degree": "BSc",
+      "company": "HdM",
+      "term": "Summer Semester 2026"
+    },
+    {
+      "id": "2b762850fa2a806aaf81fc07bd65af59",
+      "student": "Leon Seidel",
+      "topic": "Entwicklung und Evaluation einer Medikamenten-Scan-Funktion zur Verbesserung der Medikamenteneingabe bei digitalen Gesundheitsanwendungen am Beispiel der Asthma App",
+      "degree": "BSc",
+      "company": "HdM",
+      "term": "Summer Semester 2026"
+    }
+  ]
+}

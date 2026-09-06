@@ -1,0 +1,112 @@
+{
+  "semester": "ss24",
+  "term": "Summer Semester 2024",
+  "source": "WordPress archive and Notion thesis database",
+  "fetched": "2026-08-17T08:00:20.305Z",
+  "theses": [
+    {
+      "id": "c7586295aa0c4bcbb6a201ab5aa1f159",
+      "student": "Elias Merzhäuser",
+      "topic": "Barrierefreie Kollaboration in VR: Konzeption einer interaktiven und inklusiven Lernumgebung für digitale Whiteboards",
+      "degree": "MSc",
+      "company": "HdM",
+      "term": "Summer Semester 2024"
+    },
+    {
+      "id": "6c654fff8051456e8ba38d6808fbddef",
+      "student": "Illya Geybo",
+      "topic": "Onlinekurs zu barrierefreien Word-Dokumenten",
+      "degree": "BSc",
+      "company": "",
+      "term": "Summer Semester 2024"
+    },
+    {
+      "id": "4788afd3c02a420db4ce947f1ab08239",
+      "student": "Nicolas Happ",
+      "topic": "Power consumption, networking, background-tasks: considerations for updating Wear OS tiles and complications in standalone- and nonstandalone-app scenarios",
+      "degree": "BSc",
+      "company": "HdM",
+      "term": "Summer Semester 2024"
+    },
+    {
+      "id": "51fe25a807934d5a85cd2099529556f6",
+      "student": "Marvin Große",
+      "topic": "Exploring OpenXR for Vehicle Integration in Virtual Environments: A Theoretical Study",
+      "degree": "BSc",
+      "company": "Mercedes",
+      "term": "Summer Semester 2024"
+    },
+    {
+      "id": "57e1154a230f4e18b18e71181ac7bc37",
+      "student": "Jann Huschka",
+      "topic": "Entwicklung und Evaluierung nutzerzentrierter Interaktionskonzepte für KI-basierte Beratung in einem VR-Auto-Konfigurator",
+      "degree": "BSc",
+      "company": "",
+      "term": "Summer Semester 2024"
+    },
+    {
+      "id": "ab12c96879124124bfa51db88cc46732",
+      "student": "Lucas Goldner",
+      "topic": "Driving Habit Formation in Fitness Apps Through UX and Motivational Strategies: Insights from an AirPods-Compatible Application",
+      "degree": "BSc",
+      "company": "HdM",
+      "term": "Summer Semester 2024"
+    },
+    {
+      "id": "eb97387282ac4036bc41c09dc4b537d3",
+      "student": "Jens Schlegel",
+      "topic": "Konzeption und Entwicklung einer Lernassistenten-App basierend auf Large Language Models",
+      "degree": "BSc",
+      "company": "HdM",
+      "term": "Summer Semester 2024"
+    },
+    {
+      "id": "f5ad6aff67344c1298a327dfb561217d",
+      "student": "Samira Seckner",
+      "topic": "Konzeption einer neuen Version des PreSales Tools “eCharging Planner” der Mercedes-Benz AG mit bidirektionalem Laden",
+      "degree": "MSc",
+      "company": "Mercedes-Benz AG",
+      "term": "Summer Semester 2024"
+    },
+    {
+      "id": "6528a6f878514651918b2adc543d3931",
+      "student": "Till Meinköhn",
+      "topic": "Benutzerschnittstellen für KI-gestützte Modellierungsanwendungen in Extended Reality Umgebungen",
+      "degree": "BSc",
+      "company": "",
+      "term": "Summer Semester 2024"
+    },
+    {
+      "id": "2a4dfb6b5c2440beb412a0b2bf02f92e",
+      "student": "Mats Bayer",
+      "topic": "Interaktive Mensch-Maschine-Schnittstellen in der Produktion: Eine Analyse unter Verwendung von MediaPipe",
+      "degree": "BSc",
+      "company": "Fraunhofer IPA",
+      "term": "Summer Semester 2024"
+    },
+    {
+      "id": "8851fc4f52dd44858df389000685c55a",
+      "student": "Luisa Schaub",
+      "topic": "Optimierung der Arbeitsbedingungen in Autonomen Fahrzeugen - Eine Analyse nutzerseitiger Anforderungen zur Entwicklung von User Experience Konzepten",
+      "degree": "BSc",
+      "company": "",
+      "term": "Summer Semester 2024"
+    },
+    {
+      "id": "16ec7058db9449d5b49fc0bf85ebe72c",
+      "student": "Tabea Schuler",
+      "topic": "Konzeption und Entwicklung eines KI-basierten Protokoll-Assistenten",
+      "degree": "BSc",
+      "company": "",
+      "term": "Summer Semester 2024"
+    },
+    {
+      "id": "70ae069ca2714d9d84f095a4ed0afaed",
+      "student": "Michelle Albrandt",
+      "topic": "Motivation zur Nutzung von Ride-Sharing-Diensten: Erforschung und Design einer benutzerfreundlichen App",
+      "degree": "MSc",
+      "company": "",
+      "term": "Summer Semester 2024"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "semester": "ss25",
+  "term": "Summer Semester 2025",
+  "source": "WordPress archive and Notion thesis database",
+  "fetched": "2026-08-17T08:00:20.305Z",
+  "theses": [
+    {
+      "id": "17362850fa2a80c6a7d3ca021128c360",
+      "student": "Andreas Gantner",
+      "topic": "Multisensorik in Mindfulness Anwendungen - Einfluss von Sensorik auf Stressreduktion",
+      "degree": "MSc",
+      "company": "HdM",
+      "term": "Summer Semester 2025"
+    },
+    {
+      "id": "bc93c355b6db465085993712bb56afb8",
+      "student": "Isabella Mötsch",
+      "topic": "Layoutabhängige visuelle Informationsgrenze in fahrzeuginternen Informationssystemen",
+      "degree": "MSc",
+      "company": "Mercedes",
+      "term": "Summer Semester 2025"
+    },
+    {
+      "id": "1eb62850fa2a80e88b12c3e789e97912",
+      "student": "Bastian Jakobi",
+      "topic": "Anwendung des Model Context Protocols Entwicklung eines Low-Code-Tools zur Erstellung von MCP-Servern",
+      "degree": "MSc",
+      "company": "HdM",
+      "term": "Summer Semester 2025"
+    },
+    {
+      "id": "15b62850fa2a8050aa5dc57e05ce16d3",
+      "student": "Efthalia Vogiari",
+      "topic": "Augmented Reality in der Fabrikwartung: Einfluss der Informationsdarstellung auf Sicherheit und Leistung.",
+      "degree": "BSc",
+      "company": "Bosch",
+      "term": "Summer Semester 2025"
+    },
+    {
+      "id": "791a492f419540e6be63eb8e8b92e7a2",
+      "student": "Kethella Karoline Casimiro de Oliviera",
+      "topic": "Wie wirkt sich die ausschließliche Verwendung von Kopfbewegungen (6DoF nur mit Kopfbewegungen) auf die Effizienz und Genauigkeit der Navigation in virtuellen Umgebungen aus?",
+      "degree": "BSc",
+      "company": "Mercedes",
+      "term": "Summer Semester 2025"
+    },
+    {
+      "id": "12362850fa2a80adb497caf5ca157d74",
+      "student": "Lisa Salzer",
+      "topic": "Inwiefern kann die Apple Vision Pro in Kombination von Object Tracking und Spatial Audio benutzt werden, um Menschen mit Sehbehinderung das Auffinden von Objekten in einem Raum zu ermöglichen.",
+      "degree": "BSc",
+      "company": "HdM",
+      "term": "Summer Semester 2025"
+    },
+    {
+      "id": "15b62850fa2a80f5a44fdd816a6be740",
+      "student": "Lisa Kohls",
+      "topic": "Inwiefern kann die Apple Vision Pro in Kombination von Object Tracking und Spatial Audio benutzt werden, um Menschen mit Sehbehinderung das Auffinden von Objekten in einem Raum zu ermöglichen.",
+      "degree": "BSc",
+      "company": "HdM",
+      "term": "Summer Semester 2025"
+    },
+    {
+      "id": "15f62850fa2a80739f84ffbb64d67fab",
+      "student": "Henrieke Fischer",
+      "topic": "Einführung eines Theming-Konzepts für Webanwendungen",
+      "degree": "MSc",
+      "company": "AEB",
+      "term": "Summer Semester 2025"
+    },
+    {
+      "id": "18462850fa2a8073b8d5da9f6c1d9340",
+      "student": "Dennis Zink",
+      "topic": "Generalisierbare 6DoF-Pose-Schätzung in Augmented Reality: Vergleich moderner Verfahren",
+      "degree": "BSc",
+      "company": "Mercedes",
+      "term": "Summer Semester 2025"
+    },
+    {
+      "id": "17962850fa2a8095a0d5e4d8c73b6a90",
+      "student": "Patrick Thümer",
+      "topic": "Entwicklung und Evaluierung einer Testumgebung für die Informationsanzeige im autonomen Fahren: Konzepte und Rahmenbedingungen in VR",
+      "degree": "MSc",
+      "company": "Mercedes",
+      "term": "Summer Semester 2025"
+    },
+    {
+      "id": "13e62850fa2a80d089e3ece211f0a898",
+      "student": "Tom Bestvater",
+      "topic": "Generative KI for 3D Modeling",
+      "degree": "BSc",
+      "company": "HdM",
+      "term": "Summer Semester 2025"
+    },
+    {
+      "id": "14062850fa2a8019be5df35b2ce7345d",
+      "student": "Nadine Eunous",
+      "topic": "Investigating Charting Library for Modern Applications: A Comparative Study",
+      "degree": "BSc",
+      "company": "Mercedes",
+      "term": "Summer Semester 2025"
+    }
+  ]
+}

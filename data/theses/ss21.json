@@ -1,0 +1,64 @@
+{
+  "semester": "ss21",
+  "term": "Summer Semester 2021",
+  "source": "WordPress archive and Notion thesis database",
+  "fetched": "2026-08-17T08:00:20.305Z",
+  "theses": [
+    {
+      "id": "archive-471dc4a37f70b8c9b02e",
+      "student": "Luca Frank",
+      "topic": "Development of a predictive modeling system to calculate the amount of insulin injected into diabetic patients at Stuttgart Media University in cooperation with Bitfactory. Completed 25.5.21.",
+      "degree": "BSc",
+      "company": "",
+      "term": "Summer Semester 2021"
+    },
+    {
+      "id": "archive-f83dc24cc94597d7aa98",
+      "student": "Christoph Schwarzenberger",
+      "topic": "How to transition between real and virtual worlds in cooperation with Mercedes-Benz AG Pioneering.",
+      "degree": "BSc",
+      "company": "",
+      "term": "Summer Semester 2021"
+    },
+    {
+      "id": "archive-f460043901e65984f105",
+      "student": "Christos Malliaridis",
+      "topic": "Desktop Application Development with Cross-Platform UI Toolkits and Frameworks – Analysis and Comparison with focus on Compose for Desktop in cooperation with jetbrains.",
+      "degree": "BSc",
+      "company": "",
+      "term": "Summer Semester 2021"
+    },
+    {
+      "id": "archive-799e232a38e63a85165a",
+      "student": "Maximilian Narr",
+      "topic": "Possibility of Location-Based Augmented Reality with Web Technologies – Evaluation Based on a Prototype for Navigation and Provision of Product Information in Stores.",
+      "degree": "MSc",
+      "company": "",
+      "term": "Summer Semester 2021"
+    },
+    {
+      "id": "archive-ffb3580a816045298d69",
+      "student": "Michelle Albrandt",
+      "topic": "Prototypical Conception and Implementation of an Online Service for Agile Development.",
+      "degree": "BSc",
+      "company": "",
+      "term": "Summer Semester 2021"
+    },
+    {
+      "id": "archive-27c93cb77feb587ba9d7",
+      "student": "Rebecca Westhäußer",
+      "topic": "Image-based procedures and algorithms for tracking of food and meals . Completed, 23.8.2021.",
+      "degree": "BSc",
+      "company": "",
+      "term": "Summer Semester 2021"
+    },
+    {
+      "id": "archive-502bb024bbf618e67599",
+      "student": "Tim Schaal",
+      "topic": "User-onboarding in web-applications – from conception to implementation . Completed, 23.8.2021.",
+      "degree": "BSc",
+      "company": "",
+      "term": "Summer Semester 2021"
+    }
+  ]
+}

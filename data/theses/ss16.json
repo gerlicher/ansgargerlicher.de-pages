@@ -1,0 +1,72 @@
+{
+  "semester": "ss16",
+  "term": "Summer Semester 2016",
+  "source": "WordPress archive and Notion thesis database",
+  "fetched": "2026-08-17T08:00:20.305Z",
+  "theses": [
+    {
+      "id": "archive-23d5335cd982cc7dbd1a",
+      "student": "Carolin von Oehsen",
+      "topic": "Design, Development and Evaluation of a Web-Based Software for the Graphical Modelling of Storage-Rooms in Mercedes-Benz Vans by use of User Centred Design. Due date: November 14, 2016",
+      "degree": "",
+      "company": "",
+      "term": "Summer Semester 2016"
+    },
+    {
+      "id": "archive-5bd89bc37c1814d93d21",
+      "student": "Christopher Walz",
+      "topic": "Processing and Visualization of Real-Time Datastreams in Mobile Cloud Computing Architectures by Example of a Fleet Management App. August 22, 2016",
+      "degree": "BSc",
+      "company": "",
+      "term": "Summer Semester 2016"
+    },
+    {
+      "id": "archive-09e13d3ad16860190790",
+      "student": "Fabian Kugler",
+      "topic": "Conceptualization and Implementation of a Software Prototype for Location Tracking using Wearables in Terms of Accuracy, Availability and Energy Efficiency. August 12, 2016",
+      "degree": "BSc",
+      "company": "",
+      "term": "Summer Semester 2016"
+    },
+    {
+      "id": "archive-963c2123b73cf07cd9a0",
+      "student": "Johannes Käppler",
+      "topic": "Conception and Implementation of a Prototypical Transparent Pillar. September 9, 2016",
+      "degree": "BSc",
+      "company": "",
+      "term": "Summer Semester 2016"
+    },
+    {
+      "id": "archive-132381eaa33b19c02ccb",
+      "student": "Kai-Steffen Reeh",
+      "topic": "Web Performance: Load Testing for HTTP/2 & WebSockets – Framework Evaluation. August 16, 2016",
+      "degree": "BSc",
+      "company": "",
+      "term": "Summer Semester 2016"
+    },
+    {
+      "id": "archive-b6e9833c99fa5718ce72",
+      "student": "Kisanet Habte",
+      "topic": "The Internet of Things – Chances, Risks and Challenges. August 31, 2016",
+      "degree": "MSc",
+      "company": "",
+      "term": "Summer Semester 2016"
+    },
+    {
+      "id": "archive-0374283a972dd0640803",
+      "student": "Michael Kreuzer",
+      "topic": "Development of a Digital Detox App – Applying behavior change by means of an autonomous app filtering system. August 29, 2016",
+      "degree": "MSc",
+      "company": "",
+      "term": "Summer Semester 2016"
+    },
+    {
+      "id": "archive-89492d3a30dc0ab3c969",
+      "student": "Simon Strobel",
+      "topic": "Conception and Prototypical Implementation of a Programming Interface for Read and Write Access to Vehicle Data. July 29, 2016",
+      "degree": "BSc",
+      "company": "",
+      "term": "Summer Semester 2016"
+    }
+  ]
+}
