@@ -1,7 +1,7 @@
 {
   "source": "https://www.zotero.org/gerlicher/library",
   "api": "https://api.zotero.org/users/1360235/items/top",
-  "fetched": "2026-09-05T13:06:35.768Z",
+  "fetched": "2026-09-06T11:42:18.355Z",
   "style": "apa",
   "locale": "en-US",
   "publications": [
@@ -18,6 +18,11 @@
         "Christian Hackenbeck"
       ],
       "publicationTitle": "2026 IEEE Intelligent Vehicles Symposium (IV)",
+      "publisher": "IEEE",
+      "publicationType": "Peer-reviewed conference paper",
+      "status": "Published",
+      "isbn": "",
+      "eisbn": "",
       "doi": "10.1109/IV66570.2026.11624091",
       "url": "https://ieeexplore.ieee.org/document/11624091",
       "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Kraus, A., Gerlicher, A. R. S., &amp; Hackenbeck, C. (2026). An OpenXR-Based Interface for Real-Time Sensor Integration in Intelligent Vehicles. <i>2026 IEEE Intelligent Vehicles Symposium (IV)</i>, 415–422. <a href=\"https://doi.org/10.1109/IV66570.2026.11624091\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.1109/IV66570.2026.11624091</a></div>\n</div>"
@@ -35,6 +40,11 @@
         "Veljko Sekelj"
       ],
       "publicationTitle": "Proceedings of the 11th International Conference on Information and Communication Technology (ICICT 2026)",
+      "publisher": "Springer Nature Switzerland",
+      "publicationType": "Peer-reviewed proceedings paper",
+      "status": "Forthcoming · DOI pending",
+      "isbn": "",
+      "eisbn": "",
       "doi": "",
       "url": "",
       "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Peters, T., Gerlicher, A. R. S., &amp; Sekelj, V. (2026). Design and Prototypical Evaluation of a Multi-Agent, Multi-Model Workflow for AI-Driven Web Development. <i>Proceedings of the 11th International Conference on Information and Communication Technology (ICICT 2026), Lecture Notes in Networks and Systems</i>.</div>\n</div>"
@@ -52,7 +62,12 @@
         "A. Gerlicher"
       ],
       "publicationTitle": "18th AAATE Conference",
-      "doi": "",
+      "publisher": "Springer Nature Switzerland",
+      "publicationType": "Peer-reviewed proceedings paper",
+      "status": "Published",
+      "isbn": "",
+      "eisbn": "",
+      "doi": "10.1007/978-3-032-01628-7_6",
       "url": "https://link.springer.com/book/10.1007/978-3-032-01628-7",
       "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Merzhäuser, E., Zimmermann, G., &amp; Gerlicher, A. (2025, September). UniNotesXR – Accessible Collaboration in Extended Reality: A Spatial Whiteboard with 3D Audio User Guidance for the Visually Impaired. <i>18th AAATE Conference</i>. <a href=\"https://link.springer.com/book/10.1007/978-3-032-01628-7\" target=\"_blank\" rel=\"noopener noreferrer\">https://link.springer.com/book/10.1007/978-3-032-01628-7</a></div>\n</div>"
     },
@@ -69,8 +84,13 @@
         "others"
       ],
       "publicationTitle": "",
-      "doi": "",
-      "url": "",
+      "publisher": "Springer Vieweg",
+      "publicationType": "Edited book",
+      "status": "Published",
+      "isbn": "978-3-662-69749-8",
+      "eisbn": "978-3-662-69750-4",
+      "doi": "10.1007/978-3-662-69750-4",
+      "url": "https://doi.org/10.1007/978-3-662-69750-4",
       "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Gerlicher, A., Lahres, M., &amp; others. (2025). <i>FlexCAR – Eine Forschungsplattform für das autonome Fahren</i>. Springer Nature.</div>\n</div>"
     },
     {
@@ -87,7 +107,12 @@
         "A. Braun"
       ],
       "publicationTitle": "SCAP 2024",
-      "doi": "10.1007/978-3-031-88831-1",
+      "publisher": "Springer Nature Switzerland",
+      "publicationType": "Peer-reviewed proceedings paper",
+      "status": "Published",
+      "isbn": "",
+      "eisbn": "",
+      "doi": "10.1007/978-3-031-88831-1_19",
       "url": "https://scap-stuttgart.de",
       "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Walker, Z., Kuhn, K., Gerlicher, A., &amp; Braun, A. (2025). Enhancing an Autonomous Vehicle Simulation through Holoride Technology Integration to Reduce Motion Sickness and Increase Immersion. <i>SCAP 2024</i>, 223–242. <a href=\"https://doi.org/10.1007/978-3-031-88831-1\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.1007/978-3-031-88831-1</a></div>\n</div>"
     },
@@ -103,6 +128,11 @@
         "Ansgar Gerlicher"
       ],
       "publicationTitle": "",
+      "publisher": "AHFE International",
+      "publicationType": "Peer-reviewed conference paper",
+      "status": "Published",
+      "isbn": "",
+      "eisbn": "",
       "doi": "10.54941/ahfe1006906",
       "url": "https://openaccess.cms-conferences.org/publications/book/978-1-964867-75-5/article/978-1-964867-75-5_94",
       "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Walker, Z., &amp; Gerlicher, A. (2025). <i>Demonstrating the Need for Application-Level Design Guidelines in In-Vehicle Augmented Reality to Alleviate Motion Sickness: A Field Study</i>. AHFE 2025 Hawaii International Conference&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Human Factors in Design, Engineering, and Computing. <a href=\"https://doi.org/10.54941/ahfe1006906\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.54941/ahfe1006906</a></div>\n</div>"
@@ -123,7 +153,12 @@
         "L. Pinnow"
       ],
       "publicationTitle": "SCAP 2024",
-      "doi": "",
+      "publisher": "Springer Nature Switzerland",
+      "publicationType": "Peer-reviewed proceedings paper",
+      "status": "Published",
+      "isbn": "",
+      "eisbn": "",
+      "doi": "10.1007/978-3-031-88831-1_18",
       "url": "https://scap-stuttgart.de",
       "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Walker, Z., Gerlicher, A., Heinemann, D., Jannik, S., Merzhäuser, E., &amp; Pinnow, L. (2025). Exploring Interactions in Autonomous Vehicles: A Comprehensive Evaluation of Various Interaction Methods for 2D and 3D Content. <i>SCAP 2024</i>, 206–222. <a href=\"https://scap-stuttgart.de\" target=\"_blank\" rel=\"noopener noreferrer\">https://scap-stuttgart.de</a></div>\n</div>"
     },
@@ -140,6 +175,11 @@
         "P. Le Berre"
       ],
       "publicationTitle": "COVESA All Member Meeting",
+      "publisher": "COVESA",
+      "publicationType": "Conference presentation",
+      "status": "Presented",
+      "isbn": "",
+      "eisbn": "",
       "doi": "",
       "url": "https://cloud.mi.hdm-stuttgart.de/index.php/s/kspgCdbJRdpgLQf",
       "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Gerlicher, A., Guild, T., &amp; Le Berre, P. (2024). Connected Vehicle Cloud Architecture Design For Interoperable Digital Trust. <i>COVESA All Member Meeting</i>. <a href=\"https://cloud.mi.hdm-stuttgart.de/index.php/s/kspgCdbJRdpgLQf\" target=\"_blank\" rel=\"noopener noreferrer\">https://cloud.mi.hdm-stuttgart.de/index.php/s/kspgCdbJRdpgLQf</a></div>\n</div>"
@@ -161,6 +201,11 @@
         "S. Love"
       ],
       "publicationTitle": "28th Annual Conference on Intelligent User Interfaces",
+      "publisher": "ACM",
+      "publicationType": "Peer-reviewed conference paper",
+      "status": "Published",
+      "isbn": "",
+      "eisbn": "",
       "doi": "10.1145/3581641.3584085",
       "url": "https://doi.org/10.1145/3581641.3584085",
       "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Schneider, T., Hois, J., Rosenstein, A., Metzl, S., Gerlicher, A., Ghellal, S., &amp; Love, S. (2023). Don’t fail me! The Level 5 Autonomous Driving Information Dilemma regarding Transparency and User Experience. <i>28th Annual Conference on Intelligent User Interfaces</i>. <a href=\"https://doi.org/10.1145/3581641.3584085\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.1145/3581641.3584085</a></div>\n</div>"
@@ -180,6 +225,11 @@
         "others"
       ],
       "publicationTitle": "",
+      "publisher": "Melaschuk-Medien",
+      "publicationType": "Book",
+      "status": "Published",
+      "isbn": "978-3-00-045302-1",
+      "eisbn": "",
       "doi": "",
       "url": "",
       "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Melaschuk, I., Gerlicher, A., Hofmann, J.-P., Mass, R., &amp; others. (2022). <i>Web-To-Publish / Web-To-Media – Wege crossmedialer Medienproduktion</i>. Melaschuk-Medien.</div>\n</div>"
@@ -198,7 +248,12 @@
         "others"
       ],
       "publicationTitle": "WT-Online",
-      "doi": "",
+      "publisher": "VDI Fachmedien",
+      "publicationType": "Professional journal article",
+      "status": "Published",
+      "isbn": "",
+      "eisbn": "",
+      "doi": "10.37544/1436-4980-2022-09-73",
       "url": "https://www.ingenieur.de/fachmedien/...",
       "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Gerlicher, A., Schneider, T., Lahres, M., &amp; others. (2022). FlexCAR – Die Forschungsplattform von morgen. <i>WT-Online</i>, 601–607. <a href=\"https://www.ingenieur.de/fachmedien/...\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.ingenieur.de/fachmedien/...</a></div>\n</div>"
     },
@@ -218,6 +273,11 @@
         "A. Gerlicher"
       ],
       "publicationTitle": "ACM CHI",
+      "publisher": "ACM",
+      "publicationType": "Peer-reviewed conference paper",
+      "status": "Published",
+      "isbn": "",
+      "eisbn": "",
       "doi": "10.1145/3411764.3446647",
       "url": "https://doi.org/10.1145/3411764.3446647",
       "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Schneider, T., Hois, J., Rosenstein, A., Ghellal, S., Theofanou-Fülbier, D., &amp; Gerlicher, A. (2021). ExplAIn Yourself! Transparency for Positive UX in Autonomous Driving. <i>ACM CHI</i>. <a href=\"https://doi.org/10.1145/3411764.3446647\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.1145/3411764.3446647</a></div>\n</div>"
@@ -236,6 +296,11 @@
         "A. Gerlicher"
       ],
       "publicationTitle": "ACM IUI",
+      "publisher": "ACM",
+      "publicationType": "Peer-reviewed conference paper",
+      "status": "Published",
+      "isbn": "",
+      "eisbn": "",
       "doi": "10.1145/3397481.3450687",
       "url": "https://doi.org/10.1145/3397481.3450687",
       "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Schneider, T., Ghellal, S., Love, S., &amp; Gerlicher, A. (2021). Increasing the User Experience in Autonomous Driving through different Feedback Modalities. <i>ACM IUI</i>. <a href=\"https://doi.org/10.1145/3397481.3450687\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.1145/3397481.3450687</a></div>\n</div>"
@@ -256,6 +321,11 @@
         "A. Gerlicher"
       ],
       "publicationTitle": "ACM SUI",
+      "publisher": "ACM",
+      "publicationType": "Peer-reviewed conference paper",
+      "status": "Published",
+      "isbn": "",
+      "eisbn": "",
       "doi": "10.1145/3485279.3485308",
       "url": "https://doi.org/10.1145/3485279.3485308",
       "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Schneider, T., Hois, J., Rosenstein, A., Lazzara, R., Love, S., &amp; Gerlicher, A. (2021). Velocity Styles for Autonomous Vehicles affecting Control, Safety and User Experience. <i>ACM SUI</i>. <a href=\"https://doi.org/10.1145/3485279.3485308\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.1145/3485279.3485308</a></div>\n</div>"
@@ -275,6 +345,11 @@
         "Q. Wang"
       ],
       "publicationTitle": "IEEE Transactions on Intelligent Transportation Systems",
+      "publisher": "IEEE",
+      "publicationType": "Peer-reviewed journal article",
+      "status": "Published",
+      "isbn": "",
+      "eisbn": "",
       "doi": "10.1109/TITS.2019.2947347",
       "url": "https://doi.org/10.1109/TITS.2019.2947347",
       "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Herbert, R., Menz, L., Luo, C., Gerlicher, A., &amp; Wang, Q. (2019). Identifying Atypical Travel Patterns for Improved Medium-Term Mobility Prediction. <i>IEEE Transactions on Intelligent Transportation Systems</i>. <a href=\"https://doi.org/10.1109/TITS.2019.2947347\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.1109/TITS.2019.2947347</a></div>\n</div>"
@@ -293,6 +368,11 @@
         "Christos Grecos"
       ],
       "publicationTitle": "IEEE Transactions on Services Computing",
+      "publisher": "IEEE",
+      "publicationType": "Peer-reviewed journal article",
+      "status": "Published",
+      "isbn": "",
+      "eisbn": "",
       "doi": "10.1109/TSC.2016.2561934",
       "url": "http://ieeexplore.ieee.org/document/7464317/",
       "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Fankhauser, T., Wang, Q., Gerlicher, A., &amp; Grecos, C. (2018). Resource Dependency Processing in Web Scaling Frameworks. <i>IEEE Transactions on Services Computing</i>, <i>11</i>(1), 155–168. <a href=\"https://doi.org/10.1109/TSC.2016.2561934\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.1109/TSC.2016.2561934</a></div>\n</div>"
@@ -309,8 +389,13 @@
         "T. Jordine"
       ],
       "publicationTitle": "Handbuch Mobile Learning",
-      "doi": "10.1007/978-3-658-19123-8",
-      "url": "https://doi.org/10.1007/978-3-658-19123-8",
+      "publisher": "Springer VS",
+      "publicationType": "Book chapter",
+      "status": "Published",
+      "isbn": "",
+      "eisbn": "",
+      "doi": "10.1007/978-3-658-19123-8_9",
+      "url": "https://doi.org/10.1007/978-3-658-19123-8_9",
       "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Gerlicher, A., &amp; Jordine, T. (2018). Mobile Learning and Mobile Game-based Learning. In <i>Handbuch Mobile Learning</i>. Springer. <a href=\"https://doi.org/10.1007/978-3-658-19123-8\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.1007/978-3-658-19123-8</a></div>\n</div>"
     },
     {
@@ -327,6 +412,11 @@
         "A. Gerlicher"
       ],
       "publicationTitle": "38. GIL 2018-Jahrestagung",
+      "publisher": "Gesellschaft für Informatik",
+      "publicationType": "Peer-reviewed proceedings paper",
+      "status": "Published",
+      "isbn": "",
+      "eisbn": "",
       "doi": "",
       "url": "",
       "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Daum, T., Birner, R., Buchwald, H., &amp; Gerlicher, A. (2018). Smartphones als Forschungsmethode? <i>38. GIL 2018-Jahrestagung</i>.</div>\n</div>"
@@ -345,6 +435,11 @@
         "A. Gerlicher"
       ],
       "publicationTitle": "Field Methods",
+      "publisher": "SAGE Publications",
+      "publicationType": "Peer-reviewed journal article",
+      "status": "Published",
+      "isbn": "",
+      "eisbn": "",
       "doi": "10.1177/1525822X18797303",
       "url": "https://doi.org/10.1177/1525822X18797303",
       "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Daum, T., Buchwald, H., Berner, R., &amp; Gerlicher, A. (2018). Times Have Changed: Using a Pictorial Smartphone App to Collect Time–Use Data in Rural Zambia. <i>Field Methods</i>. <a href=\"https://doi.org/10.1177/1525822X18797303\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.1177/1525822X18797303</a></div>\n</div>"
@@ -363,6 +458,11 @@
         "A. Gerlicher"
       ],
       "publicationTitle": "22nd ICABR Conference",
+      "publisher": "ICABR",
+      "publicationType": "Conference presentation",
+      "status": "Presented",
+      "isbn": "",
+      "eisbn": "",
       "doi": "",
       "url": "",
       "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Daum, T., Birner, R., Buchwald, H., &amp; Gerlicher, A. (2018). Smartphone Apps as a new Method to Collect Data ... <i>22nd ICABR Conference</i>.</div>\n</div>"
@@ -381,8 +481,13 @@
         "A. Gerlicher"
       ],
       "publicationTitle": "Computers and Electronics in Agriculture",
-      "doi": "",
-      "url": "",
+      "publisher": "Elsevier",
+      "publicationType": "Peer-reviewed journal article",
+      "status": "Published",
+      "isbn": "",
+      "eisbn": "",
+      "doi": "10.1016/j.compag.2018.08.017",
+      "url": "https://doi.org/10.1016/j.compag.2018.08.017",
       "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Birner, R., Buchwald, H., Daum, T., &amp; Gerlicher, A. (2018). Smartphone apps as a new method to collect data on smallholder farming systems in the digital age. <i>Computers and Electronics in Agriculture</i>.</div>\n</div>"
     },
     {
@@ -400,6 +505,11 @@
         "others"
       ],
       "publicationTitle": "",
+      "publisher": "Melaschuk-Medien",
+      "publicationType": "Book",
+      "status": "Published",
+      "isbn": "978-3-00-045302-1",
+      "eisbn": "",
       "doi": "",
       "url": "",
       "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Melaschuk, I., Gerlicher, A., Hofmann, J.-P., Mass, R., &amp; others. (2017). <i>Web-To-Publish / Web-To-Media – Dritte Auflage</i>. Melaschuk-Medien.</div>\n</div>"
@@ -418,6 +528,11 @@
         "A. Gerlicher"
       ],
       "publicationTitle": "VDE Congress IoT",
+      "publisher": "VDE VERLAG",
+      "publicationType": "Conference proceedings paper",
+      "status": "Published",
+      "isbn": "",
+      "eisbn": "",
       "doi": "",
       "url": "",
       "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Menz, L., Kehl, S., Grill, F., &amp; Gerlicher, A. (2016). Challenges in implementing intelligent charging strategies. <i>VDE Congress IoT</i>.</div>\n</div>"
@@ -436,6 +551,11 @@
         "A. Gerlicher"
       ],
       "publicationTitle": "Mobile Information Systems",
+      "publisher": "Hindawi",
+      "publicationType": "Journal editorial",
+      "status": "Published",
+      "isbn": "",
+      "eisbn": "",
       "doi": "10.1155/2016/9706378",
       "url": "https://doi.org/10.1155/2016/9706378",
       "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Wang, Q., Wang, G., Grecos, C., &amp; Gerlicher, A. (2016). Advances in Mobile Video Networking. <i>Mobile Information Systems</i>. <a href=\"https://doi.org/10.1155/2016/9706378\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.1155/2016/9706378</a></div>\n</div>"
@@ -454,6 +574,11 @@
         "A. Gerlicher"
       ],
       "publicationTitle": "Rural 21",
+      "publisher": "Rural 21",
+      "publicationType": "Professional magazine article",
+      "status": "Published",
+      "isbn": "",
+      "eisbn": "",
       "doi": "",
       "url": "",
       "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Daum, T., Buchwald, H., Berner, R., &amp; Gerlicher, A. (2016). The potential of apps to study smallholder farming systems. <i>Rural 21</i>.</div>\n</div>"
@@ -472,6 +597,11 @@
         "Ingo Pansa"
       ],
       "publicationTitle": "Lecture Notes on Informatics",
+      "publisher": "Gesellschaft für Informatik",
+      "publicationType": "Peer-reviewed proceedings paper",
+      "status": "Published",
+      "isbn": "",
+      "eisbn": "",
       "doi": "",
       "url": "",
       "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Gerlicher, A., Müller, M., Zoller, F., &amp; Pansa, I. (2013, September). Authentication on Mobile Devices for Business Application. <i>Lecture Notes on Informatics</i>. Open Identity Summit.</div>\n</div>"
@@ -487,7 +617,12 @@
         "Hoffmann-Walbeck, Thomas and Zimmermann, G. and Hedler, Marko and Homann, J.-P. and Henka, A. and Riegel, S. and Gerlicher, A. and Goik, M. and Strobbe, C."
       ],
       "publicationTitle": "",
-      "doi": "",
+      "publisher": "Springer Berlin Heidelberg",
+      "publicationType": "Book",
+      "status": "Published",
+      "isbn": "978-3-642-15042-5",
+      "eisbn": "978-3-642-15043-2",
+      "doi": "10.1007/978-3-642-15043-2",
       "url": "http://www.springer.com/computer/media+design/book/978-3-642-15042-5",
       "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Hoffmann-Walbeck, Thomas and Zimmermann, G. and Hedler, Marko and Homann, J.-P. and Henka, A. and Riegel, S. and Gerlicher, A. and Goik, M. and Strobbe, C. (2013). <i>Standards in der Medienproduktion</i>. <a href=\"http://www.springer.com/computer/media+design/book/978-3-642-15042-5\" target=\"_blank\" rel=\"noopener noreferrer\">http://www.springer.com/computer/media+design/book/978-3-642-15042-5</a></div>\n</div>"
     },
@@ -502,7 +637,12 @@
         "Ansgar Gerlicher"
       ],
       "publicationTitle": "Smart Mobile Apps",
-      "doi": "",
+      "publisher": "Springer Berlin Heidelberg",
+      "publicationType": "Book chapter",
+      "status": "Published",
+      "isbn": "",
+      "eisbn": "",
+      "doi": "10.1007/978-3-642-22259-7_11",
       "url": "http://link.springer.com/book/10.1007/978-3-642-22259-7/page/1",
       "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Gerlicher, A. (2012). Die Grenzen des Browsers durchbrechen Hybride Anwendungsentwicklung für mobile Endgeräte. In <i>Smart Mobile Apps</i>. Springer Berlin Heidelberg. <a href=\"http://link.springer.com/book/10.1007/978-3-642-22259-7/page/1\" target=\"_blank\" rel=\"noopener noreferrer\">http://link.springer.com/book/10.1007/978-3-642-22259-7/page/1</a></div>\n</div>"
     },
@@ -520,6 +660,11 @@
         "C. Grecos"
       ],
       "publicationTitle": "IEEE Transactions on Consumer Electronics",
+      "publisher": "IEEE",
+      "publicationType": "Peer-reviewed journal article",
+      "status": "Published",
+      "isbn": "",
+      "eisbn": "",
       "doi": "10.1109/TCE.2012.6311361",
       "url": "https://doi.org/10.1109/TCE.2012.6311361",
       "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Thommes, D., Gerlicher, A., Wang, Q., &amp; Grecos, C. (2012). RemoteUI: A high-performance remote user interface system for mobile consumer electronic devices. <i>IEEE Transactions on Consumer Electronics</i>, <i>58</i>(3), 1094–1102. <a href=\"https://doi.org/10.1109/TCE.2012.6311361\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.1109/TCE.2012.6311361</a></div>\n</div>"
@@ -538,6 +683,11 @@
         "C. Grecos"
       ],
       "publicationTitle": "2012 IEEE International Conference on Consumer Electronics (ICCE)",
+      "publisher": "IEEE",
+      "publicationType": "Peer-reviewed conference paper",
+      "status": "Published",
+      "isbn": "",
+      "eisbn": "",
       "doi": "10.1109/ICCE.2012.6162021",
       "url": "https://doi.org/10.1109/ICCE.2012.6162021",
       "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Thommes, D., Wang, Q., Gerlicher, A., &amp; Grecos, C. (2012). RemoteUI: A high-performance remote user interface system for mobile consumer electronic devices. <i>2012 IEEE International Conference on Consumer Electronics (ICCE)</i>, 670–671. <a href=\"https://doi.org/10.1109/ICCE.2012.6162021\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.1109/ICCE.2012.6162021</a></div>\n</div>"
@@ -553,6 +703,11 @@
         "ProSTEP iViP e.V"
       ],
       "publicationTitle": "ProSTEP iViP Symposium 2008",
+      "publisher": "ProSTEP iViP",
+      "publicationType": "Conference proceedings paper",
+      "status": "Published",
+      "isbn": "",
+      "eisbn": "",
       "doi": "",
       "url": "",
       "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">ProSTEP iViP e.V (Ed.). (2008). Implementing XML data formats for the exchange and migration of electrical harness information. In <i>ProSTEP iViP Symposium 2008</i>. ProStep iViP.</div>\n</div>"
@@ -568,6 +723,11 @@
         "Ansgar Gerlicher"
       ],
       "publicationTitle": "",
+      "publisher": "University of the Arts London",
+      "publicationType": "Doctoral thesis",
+      "status": "Published",
+      "isbn": "",
+      "eisbn": "",
       "doi": "",
       "url": "https://www.academia.edu/68065018/Developing_collaborative_XML_editing_systems",
       "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Gerlicher, A. (2007). <i>Developing collaborative XML editing systems</i>. <a href=\"https://www.academia.edu/68065018/Developing_collaborative_XML_editing_systems\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.academia.edu/68065018/Developing_collaborative_XML_editing_systems</a></div>\n</div>"
@@ -591,8 +751,13 @@
         "J. Westbomke"
       ],
       "publicationTitle": "",
-      "doi": "",
-      "url": "",
+      "publisher": "Springer Berlin Heidelberg",
+      "publicationType": "Edited book",
+      "status": "Published",
+      "isbn": "978-3-540-36629-4",
+      "eisbn": "978-3-540-36630-0",
+      "doi": "10.1007/978-3-540-36630-0",
+      "url": "https://doi.org/10.1007/978-3-540-36630-0",
       "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Schmitz, R., Burmester, M., Eberhardt, B., Gerlicher, A., Goik, M., Hahn, J.-U., Hedler, M., Kretzschmar, O., &amp; Westbomke, J. (Eds.). (2007). <i>Kompendium Medieninformatik: Medienpraxis</i>. Springer Berlin Heidelberg.</div>\n</div>"
     },
     {
@@ -609,8 +774,13 @@
         "Joaquim Filipe"
       ],
       "publicationTitle": "ICEIS 2007 - Proceedings of the Ninth International Conference on Enterprise Information Systems, Volume SAIC, Funchal, Madeira, Portugal, June 12-16, 2007",
-      "doi": "",
-      "url": "",
+      "publisher": "SCITEPRESS",
+      "publicationType": "Peer-reviewed proceedings paper",
+      "status": "Published",
+      "isbn": "",
+      "eisbn": "",
+      "doi": "10.5220/0002405603270334",
+      "url": "https://doi.org/10.5220/0002405603270334",
       "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Gerlicher, A. R. S. (2007). Transparent Extension of Single-User Applications to Multi-User Real-Time Collaborative Systems - An Aspect Oriented Approach to Framework Integration. In J. Cardoso, J. Cordeiro, &amp; J. Filipe (Eds.), <i>ICEIS 2007 - Proceedings of the Ninth International Conference on Enterprise Information Systems, Volume SAIC, Funchal, Madeira, Portugal, June 12-16, 2007</i> (pp. 327–334).</div>\n</div>"
     },
     {
@@ -625,7 +795,12 @@
         "Yuhua Luo"
       ],
       "publicationTitle": "Cooperative Design, Visualization, and Engineering",
-      "doi": "",
+      "publisher": "Springer Berlin Heidelberg",
+      "publicationType": "Peer-reviewed proceedings paper",
+      "status": "Published",
+      "isbn": "",
+      "eisbn": "",
+      "doi": "10.1007/11863649_21",
       "url": "http://link.springer.com/chapter/10.1007/11863649_21",
       "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Gerlicher, A. R. S. (2006). A Framework for Real-Time Collaborative Engineering in the Automotive Industries. In Y. Luo (Ed.), <i>Cooperative Design, Visualization, and Engineering</i> (pp. 164–173). Springer Berlin Heidelberg. <a href=\"http://link.springer.com/chapter/10.1007/11863649_21\" target=\"_blank\" rel=\"noopener noreferrer\">http://link.springer.com/chapter/10.1007/11863649_21</a></div>\n</div>"
     },
@@ -656,6 +831,11 @@
         "Ansgar R. S. Gerlicher"
       ],
       "publicationTitle": "Cooperative Design, Visualization, and Engineering",
+      "publisher": "Springer Berlin Heidelberg",
+      "publicationType": "Peer-reviewed proceedings paper",
+      "status": "Published",
+      "isbn": "",
+      "eisbn": "",
       "doi": "10.1007/11863649_21",
       "url": "http://link.springer.com/10.1007/11863649_21",
       "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Gerlicher, A. R. S. (2006). A Framework for Real-Time Collaborative Engineering in the Automotive Industries. In Y. Luo (Ed.), <i>Cooperative Design, Visualization, and Engineering</i> (Vol. 4101, pp. 164–173). Springer Berlin Heidelberg. <a href=\"https://doi.org/10.1007/11863649_21\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.1007/11863649_21</a></div>\n</div>"
@@ -671,6 +851,11 @@
         "Ansgar Gerlicher"
       ],
       "publicationTitle": "Tagungsband zum DoIT Software-Forschungstag",
+      "publisher": "Hochschule der Medien Stuttgart",
+      "publicationType": "Conference proceedings article",
+      "status": "Published",
+      "isbn": "",
+      "eisbn": "",
       "doi": "",
       "url": "",
       "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Gerlicher, A. (2005). Erweiterung bestehender Anwendungen um kollaborative Funktionen mit Hilfe des Collaborative Editing Frameworks for XML (CEFX). <i>Tagungsband Zum DoIT Software-Forschungstag</i>, <i>1</i>.</div>\n</div>"
@@ -687,6 +872,11 @@
         "Stephan Rupp"
       ],
       "publicationTitle": "",
+      "publisher": "dpunkt.verlag",
+      "publicationType": "Book",
+      "status": "Published",
+      "isbn": "978-3-89864-285-9",
+      "eisbn": "",
       "doi": "",
       "url": "",
       "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Gerlicher, A., &amp; Rupp, S. (2004). <i>Symbian OS: eine Einführung in die Anwendungsentwicklung</i> (1. Aufl). dpunkt-Verl.</div>\n</div>"
