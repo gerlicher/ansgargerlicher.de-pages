@@ -1,7 +1,7 @@
 {
   "source": "https://www.zotero.org/gerlicher/library",
   "api": "https://api.zotero.org/users/1360235/items/top",
-  "fetched": "2026-10-12T20:01:44.755Z",
+  "fetched": "2026-10-24T10:05:34.877Z",
   "style": "apa",
   "locale": "en-US",
   "publications": [
@@ -28,26 +28,30 @@
       "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Kraus, A., Gerlicher, A. R. S., &amp; Hackenbeck, C. (2026). An OpenXR-Based Interface for Real-Time Sensor Integration in Intelligent Vehicles. <i>2026 IEEE Intelligent Vehicles Symposium (IV)</i>, 415–422. <a href=\"https://doi.org/10.1109/IV66570.2026.11624091\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.1109/IV66570.2026.11624091</a></div>\n</div>"
     },
     {
-      "key": "ZFMY93N5",
-      "version": 102,
+      "key": "U9AMRCQG",
+      "version": 111,
       "itemType": "conferencePaper",
-      "title": "Design and Prototypical Evaluation of a Multi-Agent, Multi-Model Workflow for AI-Driven Web Development",
+      "title": "Design and Prototypical Evaluation of a Multi-agent, Multi-model Workflow for AI-Driven Web Development",
       "date": "2026",
       "year": "2026",
       "creators": [
         "Tim Peters",
         "Ansgar R. S. Gerlicher",
-        "Veljko Sekelj"
+        "Veljko Sekelj",
+        "Xin-She Yang",
+        "R. Simon Sherratt",
+        "Nilanjan Dey",
+        "Amit Joshi"
       ],
-      "publicationTitle": "Proceedings of the 11th International Conference on Information and Communication Technology (ICICT 2026)",
+      "publicationTitle": "Proceedings of 11th International Congress on Information and Communication Technology",
       "publisher": "Springer Nature Switzerland",
       "publicationType": "Peer-reviewed proceedings paper",
-      "status": "Forthcoming · DOI pending",
+      "status": "Published",
       "isbn": "",
       "eisbn": "",
-      "doi": "",
-      "url": "",
-      "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Peters, T., Gerlicher, A. R. S., &amp; Sekelj, V. (2026). Design and Prototypical Evaluation of a Multi-Agent, Multi-Model Workflow for AI-Driven Web Development. <i>Proceedings of the 11th International Conference on Information and Communication Technology (ICICT 2026), Lecture Notes in Networks and Systems</i>.</div>\n</div>"
+      "doi": "10.1007/978-3-032-34564-6_28",
+      "url": "https://doi.org/10.1007/978-3-032-34564-6_28",
+      "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Peters, T., Gerlicher, A. R. S., &amp; Sekelj, V. (2026). Design and&nbsp;Prototypical Evaluation of&nbsp;a&nbsp;Multi-agent, Multi-model Workflow for&nbsp;AI-Driven Web Development. In X.-S. Yang, R. S. Sherratt, N. Dey, &amp; A. Joshi (Eds.), <i>Proceedings of 11th International Congress on Information and Communication Technology</i> (pp. 319–337). Springer Nature Switzerland. <a href=\"https://doi.org/10.1007/978-3-032-34564-6_28\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.1007/978-3-032-34564-6_28</a></div>\n</div>"
     },
     {
       "key": "FVAP2M2B",
