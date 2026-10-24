@@ -1,11 +1,181 @@
 {
   "source": "https://www.linkedin.com/in/ansgar-gerlicher-0949a84b/recent-activity/all/",
-  "fetched": "2026-08-16T15:45:00.000Z",
+  "fetched": "2026-10-24T18:26:54.837Z",
   "posts": [
     {
+      "id": "e31fdcacc1c7",
+      "title": "Are Content Management Systems Still Secure?",
+      "excerpt": "Are Content Management Systems Still Secure? 🔐 A few months ago, I started asking myself: Why am I still running my website on WordPress? Regular security updates, plugins, PHP, databases, and recurring vulnerabilities. That’s quite a lot of complexity for a website that essenti",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7519705146868764674/",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:activity:7519705146868764674/",
+      "image": "/images/linkedin-e31fdcacc1c7.jpg",
+      "published": "2026-10-24T10:23:36.379Z",
+      "publishedAt": "2026-10-24T10:23:36.379Z"
+    },
+    {
+      "id": "56c734025917",
+      "title": "Can AI agents work together like a software development team?",
+      "excerpt": "Can AI agents work together like a software development team? Our research paper, “Design and Prototypical Evaluation of a Multi-Agent, Multi-Model Workflow for AI-Driven Web Development,” has just been published by Springer Nature in the proceedings of ICICT 2026! In this work, ",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7519668699046252544/",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:activity:7519668699046252544/",
+      "image": "/images/linkedin-56c734025917.jpg",
+      "published": "2026-10-24T07:58:46.541Z",
+      "publishedAt": "2026-10-24T07:58:46.541Z"
+    },
+    {
+      "id": "f14bdae303bd",
+      "title": "What a fantastic experience and a great example of what international collaboration in research and education can achieve!",
+      "excerpt": "What a fantastic experience and a great example of what international collaboration in research and education can achieve! 🚀 It’s amazing to see how our students’ ideas developed at Hochschule der Medien Stuttgart turned into a real workshop with high school students in Taipei! ",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7519122359413288963/",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:activity:7519122359413288963/",
+      "image": "/images/linkedin-f14bdae303bd.jpg",
+      "published": "2026-10-22T19:47:49.022Z",
+      "publishedAt": "2026-10-22T19:47:49.022Z"
+    },
+    {
+      "id": "ca86d10e0647",
+      "title": "Another fantastic master’s thesis that made it to an international conference!",
+      "excerpt": "Another fantastic master’s thesis that made it to an international conference! 🚀 Congratulations, Isabel, on this great achievement! An excellent master’s thesis and a fantastic paper, which you and Natalia presented at the International Conference on Driver Distraction and Inat",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7519121508212965377/",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:activity:7519121508212965377/",
+      "image": "/images/linkedin-ca86d10e0647.jpg",
+      "published": "2026-10-22T19:44:26.080Z",
+      "publishedAt": "2026-10-22T19:44:26.080Z"
+    },
+    {
+      "id": "9483a233c239",
+      "title": "Was für ein großartiger Nachmittag und Abend an der HdM!",
+      "excerpt": "Was für ein großartiger Nachmittag und Abend an der HdM! 🚀 Heute haben wir an der Hochschule der Medien Stuttgart unsere neuen Immersive Production Labs vorgestellt: das XR Lab, das Spatial Audio Lab und unser Living Lab! Gemeinsam mit Mary Linke, Paul Riesch und Philipp Rapp du",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7519119270044221440/",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:activity:7519119270044221440/",
+      "image": "/images/linkedin-9483a233c239.jpg",
+      "published": "2026-10-22T19:35:32.459Z",
+      "publishedAt": "2026-10-22T19:35:32.459Z"
+    },
+    {
+      "id": "1805c164b24e",
+      "title": "Back on the ferry from the International Conference on Driver Distraction and Inattention by SAFER Vehicle and Traffic Safety Centre at Chal",
+      "excerpt": "Back on the ferry from the International Conference on Driver Distraction and Inattention by SAFER Vehicle and Traffic Safety Centre at Chalmers in Gothenburg. I am very grateful for the opportunity to hold a presentation together with Dr. Natalia Sevcenko and the findings of my ",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7519118172931899392/",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:activity:7519118172931899392/",
+      "image": "/images/linkedin-1805c164b24e.jpg",
+      "published": "2026-10-22T19:31:10.887Z",
+      "publishedAt": "2026-10-22T19:31:10.887Z"
+    },
+    {
+      "id": "623571b148dd",
+      "title": "How will robots change our cities",
+      "excerpt": "How will robots change our cities? And what would we actually them to do for us? Last semester, we explored these questions in different several student projects, developing concepts to help people without a technical background understand and discuss urban robotics. During the s",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7518836711901126656/",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:activity:7518836711901126656/",
+      "image": "/images/linkedin-623571b148dd.jpg",
+      "published": "2026-10-22T00:52:45.348Z",
+      "publishedAt": "2026-10-22T00:52:45.348Z"
+    },
+    {
+      "id": "ccbc8f5977ad",
+      "title": "Exciting insights, inspiring conversations, and great encounters at ELIV 2026 in Baden-Baden!",
+      "excerpt": "Exciting insights, inspiring conversations, and great encounters at ELIV 2026 in Baden-Baden! We are delighted to present our joint paper “Towards Human-Physical-AI Architecture: Semantic XR Interfaces for Bidirectional Interaction between Humans, Robots, and Vehicles” at this ye",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7516397444012683264/",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:activity:7516397444012683264/",
+      "image": "/images/linkedin-ccbc8f5977ad.jpg",
+      "published": "2026-10-15T07:19:58.564Z",
+      "publishedAt": "2026-10-15T07:19:58.564Z"
+    },
+    {
+      "id": "e4479bc9be8e",
+      "title": "Was für eine großartige Entwicklung!",
+      "excerpt": "Was für eine großartige Entwicklung! Vor zwei Jahren habt ihr selbst als Studierende mit einer Idee in einem Semesterprojekt angefangen, den MediaNight Students’ Choice Award gewonnen, weitergemacht, ein EXIST Gründerstipendium erhalten und heute begeistert ihr bereits 20 Studier",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7516377488969822208/",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:activity:7516377488969822208/",
+      "image": "/images/linkedin-e4479bc9be8e.jpg",
+      "published": "2026-10-15T06:00:40.911Z",
+      "publishedAt": "2026-10-15T06:00:40.911Z"
+    },
+    {
+      "id": "c9f8be497b7e",
+      "title": "𝗦𝗲𝗺𝗲𝘀𝘁𝗲𝗿-𝗦𝘁𝗮𝗿𝘁 𝗯𝗲𝗶 𝗶𝗿𝗲𝗺𝗶𝗮 𝗮𝗻 𝗱𝗲𝗿 𝗛𝗼𝗰𝗵𝘀𝗰𝗵𝘂𝗹𝗲 𝗱𝗲𝗿 𝗠𝗲𝗱𝗶𝗲𝗻 𝗦𝘁𝘂𝘁𝘁𝗴𝗮𝗿𝘁",
+      "excerpt": "𝗦𝗲𝗺𝗲𝘀𝘁𝗲𝗿-𝗦𝘁𝗮𝗿𝘁 𝗯𝗲𝗶 𝗶𝗿𝗲𝗺𝗶𝗮 𝗮𝗻 𝗱𝗲𝗿 𝗛𝗼𝗰𝗵𝘀𝗰𝗵𝘂𝗹𝗲 𝗱𝗲𝗿 𝗠𝗲𝗱𝗶𝗲𝗻 𝗦𝘁𝘂𝘁𝘁𝗴𝗮𝗿𝘁! 🚀 Heute stand bei uns wieder das Kick-Off für die neuen Studierendenprojekte an. Dieses Semester ist für uns ein ganz besonderer Meilenstein, denn zum ersten ",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7516154791165816833/",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:activity:7516154791165816833/",
+      "image": "/images/linkedin-c9f8be497b7e.jpg",
+      "published": "2026-10-14T15:15:45.617Z",
+      "publishedAt": "2026-10-14T15:15:45.617Z"
+    },
+    {
+      "id": "d48035443e0a",
+      "title": "Ich freue mich über mein neues Zertifikat: ELIV von VDI Wissensforum GmbH!",
+      "excerpt": "Ich freue mich über mein neues Zertifikat: ELIV von VDI Wissensforum GmbH!",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7511407587561492480/",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:activity:7511407587561492480/",
+      "image": "/images/linkedin-d48035443e0a.gif",
+      "published": "2026-10-01T12:52:04.079Z",
+      "publishedAt": "2026-10-01T12:52:04.079Z"
+    },
+    {
+      "id": "da479e2472fd",
+      "title": "Well,I would suggest it’s time for safe physical AI.",
+      "excerpt": "Well,I would suggest it’s time for safe physical AI. But how can it be achieved? …working on it…but to be honest that’s not an easy nut to crack. Any ideas, anyone?",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7506085362121859072/",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:activity:7506085362121859072/",
+      "image": "/images/linkedin-da479e2472fd.jpg",
+      "published": "2026-09-16T20:23:26.652Z",
+      "publishedAt": "2026-09-16T20:23:26.652Z"
+    },
+    {
+      "id": "6e4704a4aa68",
+      "title": "What if the only thing keeping a robot dog from attacking you… is a chain",
+      "excerpt": "What if the only thing keeping a robot dog from attacking you… is a chain? 🐕🤖 Japanese artist Takayuki Todo turned that question into an art exhibit at Toda Hall & Conference in Tokyo. The robot is programmed to pursue human targets. No anger. No empathy. Just an objective. And",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7505954816251203586/",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:activity:7505954816251203586/",
+      "image": "/images/linkedin-6e4704a4aa68.jpg",
+      "published": "2026-09-16T11:44:42.091Z",
+      "publishedAt": "2026-09-16T11:44:42.091Z"
+    },
+    {
+      "id": "f201cdccba76",
+      "title": "Ich unterstütze aktuell ein junges Startup Team aus meinem Netzwerk bei der Suche nach einem weiteren Mitgründer bzw.",
+      "excerpt": "Ich unterstütze aktuell ein junges Startup Team aus meinem Netzwerk bei der Suche nach einem weiteren Mitgründer bzw. einer weiteren Mitgründerin. Das Team entwickelt eine B2B SaaS Plattform an der Schnittstelle von Applied AI, Cyber Security und Software Engineering und hat vor ",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7505123557010481152/",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:activity:7505123557010481152/",
+      "image": "/images/generated/linkedin-placeholder.svg",
+      "published": "2026-09-14T04:41:34.444Z",
+      "publishedAt": "2026-09-14T04:41:34.444Z"
+    },
+    {
+      "id": "69c21bf940c1",
+      "title": "A great few days at KES 2026 in Dublin!",
+      "excerpt": "A great few days at KES 2026 in Dublin! Together with Teresa Mary Kutzner, I had the pleasure of attending the 30th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (#KES2026). Teresa presented our paper “Towards Human-Centered LLM App",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7504441943968358400/",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:activity:7504441943968358400/",
+      "image": "/images/linkedin-69c21bf940c1.jpg",
+      "published": "2026-09-12T07:33:05.231Z",
+      "publishedAt": "2026-09-12T07:33:05.231Z"
+    },
+    {
+      "id": "0ae53c83ab6c",
+      "title": "Games have long been an integral part of everyday life",
+      "excerpt": "Games have long been an integral part of everyday life. They have the potential to strengthen the community in positive and creative ways—a point that Frank-Walter Steinmeier once again emphasized in his opening speech at the gamescom congress 2026. The German Federal President p",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7498801147558666241/",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:activity:7498801147558666241/",
+      "image": "/images/linkedin-0ae53c83ab6c.jpg",
+      "published": "2026-08-27T17:58:34.566Z",
+      "publishedAt": "2026-08-27T17:58:34.566Z"
+    },
+    {
+      "id": "33a1d44f7726",
+      "title": "We’re excited to be here at the City Science Lab at Taipei Tech 🇹🇼🤖 Our visit builds on a collaboration that Michael Lin and Wolfgang Gru",
+      "excerpt": "We’re excited to be here at the City Science Lab at Taipei Tech 🇹🇼🤖 Our visit builds on a collaboration that Michael Lin and Wolfgang Gruel have been developing for many years, connecting researchers and students across Taipei, Hochschule der Medien Stuttgart (HdM, engl. Stutt",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7497621297095467008/",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:activity:7497621297095467008/",
+      "image": "/images/linkedin-33a1d44f7726.jpg",
+      "published": "2026-08-24T11:50:16.295Z",
+      "publishedAt": "2026-08-24T11:50:16.295Z"
+    },
+    {
       "id": "3a5c136c0b5a",
-      "title": "Requirements Engineering is a profession",
-      "excerpt": "Thank you, Patrick! I have seen this so many times throughout my professional career. Requirements Engineering is a profession, and it requires a specific skill set learned through education and practical experience. Invest in people, education and clear requirements.",
+      "title": "",
+      "excerpt": ". Ansgar Gerlicher • Sie Professor, Startup Mentor & Entrepreneur 16. Aug. Thank you, Patrick! I have seen this so many times throughout my professional career. Requirements Engineering is a profession. And it requires a specific skill set that you learn through education, combin",
       "url": "https://www.linkedin.com/feed/update/urn:li:activity:7494711639506649088/",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:activity:7494711639506649088/",
       "image": "/images/linkedin-3a5c136c0b5a.jpg",
@@ -14,8 +184,8 @@
     },
     {
       "id": "8330034c56bd",
-      "title": "AI verändert die Geschwindigkeit der Softwareentwicklung",
-      "excerpt": "AI verändert derzeit vor allem die Geschwindigkeit der Softwareentwicklung. Die eigentliche Herausforderung bleibt jedoch, Software so zu entwickeln, dass sie auch in fünf oder zehn Jahren noch wartbar, nachvollziehbar und erweiterbar ist.",
+      "title": "",
+      "excerpt": ". Ansgar Gerlicher • Sie Professor, Startup Mentor & Entrepreneur 13. Aug. Absolut richtig Benjamin Weinhold! AI verändert derzeit vor allem die Geschwindigkeit der Softwareentwicklung. Die eigentliche Herausforderung bleibt jedoch, Software so zu entwickeln, dass sie auch in fün",
       "url": "https://www.linkedin.com/feed/update/urn:li:activity:7493595707979980800/",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:activity:7493595707979980800/",
       "image": "/images/linkedin-8330034c56bd.jpg",
@@ -23,14 +193,44 @@
       "publishedAt": "2026-08-13T09:14:01.058Z"
     },
     {
+      "id": "89f4e34ac3b4",
+      "title": "Gerade optimieren alle die Geschwindigkeit ihrer Softwareentwicklung mit AI",
+      "excerpt": "Gerade optimieren alle die Geschwindigkeit ihrer Softwareentwicklung mit AI. Zu Recht - wir natürlich auch! Aber: unsere Branche redet gerade viel zu wenig über Architektur und technische Schulden! Dabei entscheidet sich genau dort, ob ein geschäftskritisches System in zehn Jahre",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7493347458031259648/",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:activity:7493347458031259648/",
+      "image": "/images/linkedin-89f4e34ac3b4.jpg",
+      "published": "2026-08-12T16:47:33.658Z",
+      "publishedAt": "2026-08-12T16:47:33.658Z"
+    },
+    {
+      "id": "02af73490497",
+      "title": "\"The response time shall be fast",
+      "excerpt": "\"The response time shall be fast.\" That sentence passed review. Three people signed it off. It went to a supplier, tehy read \"fast\" and built 2000ms. \"We meant 16 milliseconds, 60fps, you know?\" Nobody was wrong in that chain, or made a mistake. The requirement was just untestabl",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7492192358151774208/",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:activity:7492192358151774208/",
+      "image": "/images/linkedin-02af73490497.jpg",
+      "published": "2026-08-09T12:17:36.386Z",
+      "publishedAt": "2026-08-09T12:17:36.386Z"
+    },
+    {
       "id": "c5b4969c788f",
-      "title": "Congratulations on an accepted SpaceCHI paper",
-      "excerpt": "Congratulations, Matti, on your accepted paper! This is fantastic work and very well deserved. Beyond intuitive AR/XR data visualization, the underlying architecture makes AI access more trustworthy and elegantly prevents hallucinated information.",
+      "title": "",
+      "excerpt": ". Ansgar Gerlicher • Sie Professor, Startup Mentor & Entrepreneur 4. Aug. Congratulations, Matti, on your accepted paper! This is fantastic work and very well deserved. What fascinates me most is that this is about much more than using AR/XR to visualize complex data in an intuit",
       "url": "https://www.linkedin.com/feed/update/urn:li:activity:7490407487892914176/",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:activity:7490407487892914176/",
-      "image": "/images/generated/linkedin-placeholder.svg",
+      "image": "/images/linkedin-c5b4969c788f.jpg",
       "published": "2026-08-04T14:05:10.155Z",
       "publishedAt": "2026-08-04T14:05:10.155Z"
+    },
+    {
+      "id": "35b7db7ab0a2",
+      "title": "The Moon is floating in front of me, and I'm asking it questions out loud",
+      "excerpt": "The Moon is floating in front of me, and I'm asking it questions out loud. As part of my research at the MIT Media Lab, I ask analytical questions about spatial data in plain speech, and the answers get drawn into the room around me through an AR headset. This new application hol",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7490149990703583232/",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:activity:7490149990703583232/",
+      "image": "/images/linkedin-35b7db7ab0a2.jpg",
+      "published": "2026-08-03T21:01:58.041Z",
+      "publishedAt": "2026-08-03T21:01:58.041Z"
     },
     {
       "id": "f836503d58d5",
@@ -51,6 +251,16 @@
       "image": "/images/linkedin-66a9bf55e520.jpg",
       "published": "2026-08-02T17:10:51.018Z",
       "publishedAt": "2026-08-02T17:10:51.018Z"
+    },
+    {
+      "id": "cafb5c59517b",
+      "title": "🌱 Es ist wieder soweit: Das Semina farm",
+      "excerpt": "🌱 Es ist wieder soweit: Das Semina farm.Stipendium 2027 ist ausgeschrieben! Du gründest gerade – oder stehst kurz davor? Du hast eine Vision, aber die Frühphase fühlt sich finanziell eng an? Die Crescere Stiftung Bodensee und das Gründungszentrum farm - Gründung & Innovation der",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7482329102360875008/",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:activity:7482329102360875008/",
+      "image": "/images/linkedin-cafb5c59517b.jpg",
+      "published": "2026-07-13T07:04:32.955Z",
+      "publishedAt": "2026-07-13T07:04:32.955Z"
     },
     {
       "id": "d91516e64344",
