@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": "local-automatisierter-linkedin-post-nummer1",
+      "title": "Will we still need menus and buttons in the age of AI?",
+      "excerpt": "𝗪𝗶𝗹𝗹 𝘄𝗲 𝘀𝘁𝗶𝗹𝗹 𝗻𝗲𝗲𝗱 𝗺𝗲𝗻𝘂𝘀 𝗮𝗻𝗱 𝗯𝘂𝘁𝘁𝗼𝗻𝘀 𝗶𝗻 𝘁𝗵𝗲 𝗮𝗴𝗲 𝗼𝗳 𝗔𝗜?\n\nWe navigate menus, search for functions, fill out forms and click buttons.\n\nWhat if we could simply describe what we want to achieve—and the application generated the right interface",
+      "text": "𝗪𝗶𝗹𝗹 𝘄𝗲 𝘀𝘁𝗶𝗹𝗹 𝗻𝗲𝗲𝗱 𝗺𝗲𝗻𝘂𝘀 𝗮𝗻𝗱 𝗯𝘂𝘁𝘁𝗼𝗻𝘀 𝗶𝗻 𝘁𝗵𝗲 𝗮𝗴𝗲 𝗼𝗳 𝗔𝗜?\n\nWe navigate menus, search for functions, fill out forms and click buttons.\n\nWhat if we could simply describe what we want to achieve—and the application generated the right interface for us?\n\nThat is the idea behind 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝘃𝗲 𝗨𝘀𝗲𝗿 𝗜𝗻𝘁𝗲𝗿𝗳𝗮𝗰𝗲𝘀 (𝗚𝗲𝗻𝗨𝗜): interfaces that adapt to the user's intentions rather than requiring users to follow a fixed path.\n\nJan Hübner explored this in his bachelor's thesis at Hochschule der Medien Stuttgart. Together with Marilena Brink, I had the pleasure of supervising his research.\n\nIn a controlled study with 18 participants, he compared a conventional mobile application with an AI-driven generative interface.\n\n𝗪𝗵𝗮𝘁 𝗱𝗶𝗱 𝘄𝗲 𝗹𝗲𝗮𝗿𝗻?\n\n→ Generative UI significantly reduced interaction steps, especially for complex tasks.\n→ Participants perceived it as more efficient.\n→ Conventional interfaces inspired significantly more trust and were preferred for long-term use.\n→ Fewer steps did not necessarily mean faster task completion.\n\n𝗘𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝗰𝘆 𝗺𝗮𝘁𝘁𝗲𝗿𝘀. 𝗦𝗼 𝗱𝗼𝗲𝘀 𝘁𝗿𝘂𝘀𝘁.\n\nThese findings suggest that combining familiar controls with AI-generated interactions may be more useful than replacing every menu with a prompt.\n\nWe have taken this research a step further and submitted a paper to HCI International 2027 (HCII 2027):\n\n📄 “Prompt or Navigate? A Controlled Study Comparing Generative UI and a Conventional Mobile Interface”\n\nFor me, the most interesting question is where each approach helps: when do we want the predictability of a familiar interface, and when would we rather describe our goal?\n\n𝗪𝗵𝗲𝗿𝗲 𝘄𝗼𝘂𝗹𝗱 𝘆𝗼𝘂 𝗽𝗿𝗲𝗳𝗲𝗿 𝗮 𝗽𝗿𝗼𝗺𝗽𝘁—𝗮𝗻𝗱 𝘄𝗵𝗲𝗿𝗲 𝘄𝗼𝘂𝗹𝗱 𝘆𝗼𝘂 𝗸𝗲𝗲𝗽 𝘁𝗵𝗲 𝗯𝘂𝘁𝘁𝗼𝗻𝘀?\n\nI'd love to hear an example from your own work or everyday life.\n\n#GenerativeUI #GenUI #HumanComputerInteraction #UserExperience #ArtificialIntelligence #HdM",
+      "published": "2026-10-24T19:11:38.201Z",
+      "publishedAt": "2026-10-24T19:11:38.201Z",
+      "media": [
+        {
+          "type": "image",
+          "src": "/media/posts/automatisierter-linkedin-post-nummer1/navigation-oder-einfach-fragen.png",
+          "alt": "Traditional GUI vs. Generative UI: Will AI make menus obsolete?"
+        }
+      ],
+      "image": "/media/posts/automatisierter-linkedin-post-nummer1/navigation-oder-einfach-fragen.png",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7519842672409243649/",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7519842672409243649/"
+    }
+  ]
+}
