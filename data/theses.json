@@ -1,13 +1,11 @@
 {
-  "source": "WordPress archive and Notion thesis database",
-  "fetched": "2026-08-17T08:00:20.305Z",
-  "total": 211,
+  "total": 214,
   "semesters": [
     {
       "semester": "ws26",
       "term": "Winter Semester 2026",
       "file": "theses/ws26.json",
-      "count": 3
+      "count": 6
     },
     {
       "semester": "ss26",

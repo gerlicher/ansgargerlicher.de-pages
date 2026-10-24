@@ -1,8 +1,6 @@
 {
   "semester": "ws26",
   "term": "Winter Semester 2026",
-  "source": "WordPress archive and Notion thesis database",
-  "fetched": "2026-08-17T08:00:20.305Z",
   "theses": [
     {
       "id": "3a462850fa2a8015ae09dbc3f5a48e8b",
@@ -24,6 +22,30 @@
       "id": "3a462850fa2a80e390e8fff6b1581c15",
       "student": "Dominik Langenbeck",
       "topic": "Designing Comfortable AR Content",
+      "degree": "BSc",
+      "company": "",
+      "term": "Winter Semester 2026"
+    },
+    {
+      "id": "3a462850fa2a80f00010000000000001",
+      "student": "Nadine Benedix",
+      "topic": "Designing an Inclusive Four-Passenger Interior for Autonomous Shuttles & Accessible Emergency Interaction",
+      "degree": "BSc",
+      "company": "",
+      "term": "Winter Semester 2026"
+    },
+    {
+      "id": "3a462850fa2a80f00010000000000002",
+      "student": "Michael Cabanis",
+      "topic": "Typed Decision Models in Runtime Components",
+      "degree": "MSc",
+      "company": "",
+      "term": "Winter Semester 2026"
+    },
+    {
+      "id": "3a462850fa2a80f00010000000000003",
+      "student": "Fiona Hirschberg",
+      "topic": "AR Visual Cues to Reduce Motion Sickness in Vehicles",
       "degree": "BSc",
       "company": "",
       "term": "Winter Semester 2026"
