@@ -1,10 +1,32 @@
 {
   "source": "https://www.zotero.org/gerlicher/library",
   "api": "https://api.zotero.org/users/1360235/items/top",
-  "fetched": "2026-10-24T19:35:10.711Z",
+  "fetched": "2026-10-25T17:29:15.870Z",
   "style": "apa",
   "locale": "en-US",
   "publications": [
+    {
+      "key": "ZGD5QS9U",
+      "version": 132,
+      "itemType": "conferencePaper",
+      "title": "Towards Human-Physical-AI Architecture: Semantic XR Interfaces for Bidirectional Interaction Between Humans, Robots and Vehicles",
+      "date": "2026-10-14",
+      "year": "2026",
+      "creators": [
+        "Gerlicher, A. R. S.",
+        "Z. Walker",
+        "C. Hackenbeck"
+      ],
+      "publicationTitle": "ELIV 2026 Mobile Machine Electronics 2026",
+      "publisher": "Verein Deutscher Ingenieure e.V",
+      "publicationType": "Peer-reviewed conference paper",
+      "status": "Published",
+      "isbn": "",
+      "eisbn": "",
+      "doi": "10.51202/9783181024751",
+      "url": "https://doi.org/10.51202/9783181024751",
+      "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Gerlicher, A. R. S., Walker, Z., &amp; Hackenbeck, C. (2026). Towards Human-Physical-AI Architecture: Semantic XR Interfaces for Bidirectional Interaction Between Humans, Robots and Vehicles. <i>ELIV 2026 Mobile Machine Electronics 2026, VDI-Berichte</i>, 16. <a href=\"https://doi.org/10.51202/9783181024751\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.51202/9783181024751</a></div>\n</div>"
+    },
     {
       "key": "J9LYBV2U",
       "version": 104,
