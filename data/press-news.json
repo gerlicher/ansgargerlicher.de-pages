@@ -1,6 +1,6 @@
 {
   "source": "Google News RSS",
-  "fetched": "2026-08-17T08:37:22.154Z",
+  "fetched": "2026-10-26T21:02:31.937Z",
   "searches": [
     "\"Ansgar Gerlicher\"",
     "CARpulse",
@@ -16,6 +16,14 @@
       "featured": true
     },
     {
+      "title": "Immersive X: HdM goes live – neue Labore für die Medienwelten von morgen",
+      "url": "https://hdm-stuttgart.de/view/news/immersive-x-hdm-goes-live-neue-labore-fuer-die-medienwelten-von-morgen/",
+      "source": "Hochschule der Medien",
+      "topic": "Ansgar Gerlicher",
+      "published": "2025-10-07T00:00:00.000Z",
+      "featured": true
+    },
+    {
       "title": "FlexCAR: Neue Publikation zur Mobilität von morgen",
       "url": "https://hdm-stuttgart.de/view/news/flexcar-neue-publikation-zur-mobilitaet-von-morgen/",
       "source": "Hochschule der Medien",
@@ -24,32 +32,60 @@
       "featured": true
     },
     {
-      "title": "Wissenschaftskommunikation: gerne kontrovers, aber bitte konstruktiv!",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1IZXU5N2pNSjdSTEZJcml2WkgxM1NxMmg2aVcyUGFmZE5yVVlMcXhVVXAtY1JnUXZzcE5tU3hvTTVzZGhuZlNCbkFENA?oc=5",
-      "source": "Informationsdienst Wissenschaft",
+      "title": "Podcast-Marathon brachte besondere Lebensgeschichten live auf Sendung",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdTZfUGRYQlhXS2dFcGtOSFZ1VEZsa0NyY2pDSEw3MGRZNVJSYk5iMUxSNEs0cmpnM0ZlVGdHYktCbFdUTVZxMnc3bjJVWGpTV285MXZDNVRpRVJlVDdoeEpRNzZJaHJNMFFCMUVnTWZMT1NPTHdiM0RzbFpXUFRoaXl0R2ZnSWs0RG4xSTdvUnVtYzlLM0NudUpFSWJQVkU?oc=5",
+      "source": "SWR",
       "topic": "Hochschule der Medien",
-      "published": "2026-07-21T08:00:00.000Z"
+      "published": "2026-10-24T07:00:00.000Z"
     },
     {
-      "title": "Studie: KI bleibt oft im Testlauf stecken",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNjdqRk9LMTJjVlBQZmNnejJxRFRrcnNkbk5TNzgwdGNxUUZQQlhFQkhaY1ZkSUxFY0VEOV9kQlJqOHBIVUhKclk3MlJicnpwaG1ia3Q4eTJpTm5YTFRQNk82TTJ4SC1NZVBQeUVCZmhibDFvbF9COU9oenltek5EWGxGNlExNE0?oc=5",
-      "source": "heise online",
+      "title": "Trump-Boykott der US-Sender: Wie stark trifft das Donald Trump?",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOakJPbWUxNElfR3JfbTlJNzR3bFJZaDh2TE1CMXdudGJQSGZQek5fQndKdlZBd2R6QnRfU2JqRGRBTzJ1bFVQaFgyQmM1MlBDdVhDWFBUNWdkYlM5Wm5ZUmlvR3ZVd2N6WFBVVThzbnViZnpVa1JTWndERDh2S2dJZnVFSGtsT2ZtclVpaXRpRHdsXzBQR2RNQW9wdlNoSUFCMUxULURYN2pyRzlPRHZwSWsySkplZw?oc=5",
+      "source": "SRF",
       "topic": "Hochschule der Medien",
-      "published": "2026-05-24T07:00:00.000Z"
+      "published": "2026-09-22T07:00:00.000Z"
     },
     {
-      "title": "Stuttgarter Moderationspreis gibt Nominierungen bekannt",
-      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBGeC00V3ZuU2hpb0g5Wkh4UG11TUZ5VkhEX2k5eVlFSzlDVmpHcWlRb1BEOURmREQyZ2U2MUJwQQ?oc=5",
+      "title": "Rund eine Million Euro für Robotik-Innovation",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa0d1QTQxeFN1QmlxOXlNX1dqdUlSZkkzNkNlUVM2VHM5aEItM2NPdkpfNnpmN2h6UEIxRy1qNVV1QWVWdi1fM2hPLTBaYUVscmllZ3FtanZhbGJNN1hhdjhyZlFFUWdsdFRNNThha1dqUEFfeDgyczRiUG13LUNVd0FaX1k4S18zVzh5bDVmdDZpWTgyRzNqZnpHLTNsYzRVcjdDZmhIYWFiMks3LWRLYUlPY0l1M1BPb3hF?oc=5",
+      "source": "baden-wuerttemberg.de",
+      "topic": "Hochschule der Medien",
+      "published": "2026-07-22T07:00:00.000Z"
+    },
+    {
+      "title": "Die Bücherei verwandelt sich in eine KI-Werkstatt",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLVlxa0lkS1ZBMUVIbmI4cUlfQU9pMkY5cW40eThOdGFiRTVlM1BtdGUtQmNmYVB2WkZnWUliZy1NbzlpZEs3YVVXWElsRUFHS1dHeHVQcGtZbk5LUk9PanprYWxNb0xsZHU4Zk9YYmY2TGtXZmF4WklpZlNub2pQNzIwNnZtZnVjQXYzcTJTbldMZjRPZnpNNkRJX3BrUQ?oc=5",
+      "source": "NUSSBAUM.de",
+      "topic": "Hochschule der Medien",
+      "published": "2026-06-26T07:00:00.000Z"
+    },
+    {
+      "title": "Anne Will wird mit Stuttgarter Moderationspreis geehrt",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1UcnMzd2EtWE8tX2Vqa0JYVHVCUTJGLW41cGUtSHEzOEtYZXdWQTVaTXFuN2VFZFVqMnRrcDJmMA?oc=5",
       "source": "DWDL",
       "topic": "Hochschule der Medien",
-      "published": "2026-05-15T07:00:00.000Z"
+      "published": "2026-06-09T07:00:00.000Z"
+    },
+    {
+      "title": "Hochschulperle des Monats Mai geht nach Baden-Württemberg",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSUJBcGd6LTNyMFYyb3pEMHNjdmlrWE15RVhnaVVhUWVfWE9QZGt6RG5lLVQxMlpHbkxVSEFWMk9QWUFoRzNXdnNOazRlcVljSlAwMV9sUFdpRW1ZSllCa1Zybm1xZDNpSWI4WDJsRjdPeFNqelB6SVFPUEU5RnZUdHkzY0NURDQ0WWNPNjJJeGtzY1pvZ0xRaTNReXdfUWlUNlhTdTI5dTB4WDQ?oc=5",
+      "source": "Stifterverband",
+      "topic": "Hochschule der Medien",
+      "published": "2026-05-27T07:00:00.000Z"
+    },
+    {
+      "title": "Wie geht Innovation im Lokaljournalismus?",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JeFRmWGd0TFNMYm9pT25fdVRCNV9zNG1oNm1SQXktb0VCc0NZeEVIU1dNb01mbzJqdG1mNGtQN0dpNkdVallXNFppNWlkZEMxTk5FVE83ZXV4dXlPbEw4M0hBR0VfYm1TLWlwRmt6RlVrWkZ3QmfSAYYBQVVfeXFMUGtJdkRmU2hmMV9tRUZMWlZOWE80akxIb0dDSFdmUTJaSUhKTHN2TGdiLVQ3TFNxV2F3VUVjZEg5a3JBUmc3WFFJVFdRWWF3VTY5MjBPUmJkbC1DRC1iNkVMRDhYeUktYncwU0p4dXZ3RlYxdU12aUw0SXRHcnAwenJUWi1wUVE?oc=5",
+      "source": "MEDIENTAGE München",
+      "topic": "Hochschule der Medien",
+      "published": "2026-05-26T07:00:00.000Z"
     },
     {
       "title": "Michael Ralla: Wer ist der Oscar-Nominierte aus dem Schwarzwald?",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLS1NbXlrVGYzcHV3ME9WS0ozTnlLdTN0Y2c0OWdBSkNCc010T25wNmFIRjBIckdFOXZfX00tSnpFSDVaaGMxWmlubmN5NHMwYWRjSnQydUotWjZlYk5zdXk0Q3FpMnd5Si1Fa0V3b3hPYzJSdXJMdW55aHZDeEpsckM2QVVld0hrNmRZaDBaOERMNVVQbnNxVWxB?oc=5",
       "source": "SWR",
       "topic": "Hochschule der Medien",
-      "published": "2026-03-13T07:00:00.000Z"
+      "published": "2026-03-13T15:24:38.000Z"
     },
     {
       "title": "Stuttgarter Moderationspreis schreibt Wettbewerb für journalistische Moderator:innen aus",
@@ -73,46 +109,11 @@
       "published": "2025-12-11T08:00:00.000Z"
     },
     {
-      "title": "Der Publishers’ Day ist zurück",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9rd0pQTmtIaGJVZFpHNmdTdjBfc2RfWlhaX2tiU3cwTUY5TmRGQ1F0cUVQSWx1VUQ5RFNKbzYtVENRcFlheHUxcjQyTURoQWNmSU1IenhreTFsUHFDNGh4SEgwaEI0ZmE2NkFwSFV3eGlkU2VKQi1OdWE3RQ?oc=5",
-      "source": "Börsenblatt",
+      "title": "Hochschule der Medien Stuttgart richtet Verpackungsstudium neu aus",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM0dmN1UwSjhWVUEtR0lXUmN2eFJXUVB1RXE1XzJnblFydVpJUjYxRExhSEJSU3dGSXg4eTRYb3lra3dwb2pJeGM5RmlsMlFsbTZjMXhxSGoxNEdoWThCZjN5MjZYR21tanNQWF81WDRWSDltRDFrbFpudjRSUDk2eHdSRWRMNVFzTnBLQjJTN0hGY3lFUTg0NVNENkw?oc=5",
+      "source": "packaging journal",
       "topic": "Hochschule der Medien",
-      "published": "2025-12-04T08:00:00.000Z"
-    },
-    {
-      "title": "Swaran Sandhu ist \"Professor des Jahres\"",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdlBuTGdkcF9WY1B5SjA1UXFvZzB6LTlQVVpHR2NWMzZadUZHSG1BaGtEbXQxZkxUaG5jS240dlV3RTEycnk3cTRmdHB3bFRKS1hJbFZxa1I1X2tmanpUMGhpNVVMSkNJVmhtOWRJX2RkYjFKQW02OTBIendhUXRRYndjaS15RENsdTV0QjhB?oc=5",
-      "source": "PRReport",
-      "topic": "Hochschule der Medien",
-      "published": "2025-12-01T08:00:00.000Z"
-    },
-    {
-      "title": "Leitung der Hochschule der Medien Stuttgart ist komplett",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOWt5LUl1MjlWdGlBdmRlbEhHanM0aWM4MUdiTXl2R2xLNnRaY1BJbzVNYW9wS1A2aWZaaWozNlY5SnBUbXlRcElncDAzaUFpMEpFSzkxZGFBQk9sUWlDQ0pmdHBaR1lSRGNuajd4RWVZTTA3dlJ4eWctV2k1ZTdscHF1WjE5YmJPTWRDYVFkUkllQUFQS0JVOS11bVJGOTJVc2N3dmRKNVNJUnJH?oc=5",
-      "source": "Druck & Medien",
-      "topic": "Hochschule der Medien",
-      "published": "2025-11-25T08:00:00.000Z"
-    },
-    {
-      "title": "Hochschule der Medien: Prof. Dr. Boris Alexander Kühnle startet als neuer Rektor",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTWZMdFZyR0JuQ3VlVmlmaDFMeGN2MXBJdjNodHlQTTdQX3Bpa3lGd09lVThUb2g3emhvdlBUQzhfdFNvMi1QOGZ6RmlLeTBLMVI1Znk0ZndlS0VWb1JqWXdJWnkyLWo5M1VxQlV5SXNLajR5TDlLbHdrZDJUWG5ZYTFTdVg3enFVOVU3WDBPbjA4VlRHdnNodXdCR1dRT3RueV9GYnR6R1QzRExVT3R5YUlCWFFJX0ZiREk5cTFscw?oc=5",
-      "source": "openPR.de",
-      "topic": "Hochschule der Medien",
-      "published": "2025-11-03T08:00:00.000Z"
-    },
-    {
-      "title": "Wechsel an der Spitze der Hochschule der Medien",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNGxLcXhkdk5UMkl5MzRIZzcxVk1ZclFObVE4bU1uS3ltdEhnWVFxUWU5QlVMb29DVER0dTZ2VjJhaDJERkY5S1hJcWt3YzZST2plalZLQjRiZTRRbDJqWXJMdFVQei1QcTgtT051aVMxM1RsNFFjM3RsR1Rwd2N2RWxhR3Z6QQ?oc=5",
-      "source": "Print.de",
-      "topic": "Hochschule der Medien",
-      "published": "2025-10-24T07:00:00.000Z"
-    },
-    {
-      "title": "Kompendium für Marketing und Medienproduktion: Daten, Systeme, Media, Best-Practice",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUnhMQUR4TlVMcEIycTlRRUs0dUQzckJKOEd2ajhGZGg1OFNRay0wN1pUZTRvYzNCcDJpTUxkSEV0elF0QTRlVWhqdjZTT2xkam5fWjhyd3lKQTNwS2F1R2pKSXcybVVQaC04TUk0azJZRk9YRGJDLXItR21zdU1EMF8yNmFfNm1oRExSU1h6elJCVWlsUlpSUGU0ZjNOZlZhNTRpY0MwSmtCWEEtME1tRllFTk1wQ3B1b0c2VA?oc=5",
-      "source": "openPR.de",
-      "topic": "Ansgar Gerlicher",
-      "published": "2019-12-11T08:00:00.000Z"
+      "published": "2025-05-30T07:00:00.000Z"
     }
   ]
 }
