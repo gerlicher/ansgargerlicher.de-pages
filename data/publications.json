@@ -1,7 +1,7 @@
 {
   "source": "https://www.zotero.org/gerlicher/library",
   "api": "https://api.zotero.org/users/1360235/items/top",
-  "fetched": "2026-10-30T10:07:40.737Z",
+  "fetched": "2026-10-30T13:58:27.830Z",
   "style": "apa",
   "locale": "en-US",
   "publications": [
@@ -48,6 +48,119 @@
       "doi": "10.1109/IV66570.2026.11624091",
       "url": "https://ieeexplore.ieee.org/document/11624091",
       "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Kraus, A., Gerlicher, A. R. S., &amp; Hackenbeck, C. (2026). An OpenXR-Based Interface for Real-Time Sensor Integration in Intelligent Vehicles. <i>2026 IEEE Intelligent Vehicles Symposium (IV)</i>, 415–422. <a href=\"https://doi.org/10.1109/IV66570.2026.11624091\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.1109/IV66570.2026.11624091</a></div>\n</div>"
+    },
+    {
+      "key": "M2DVAZVJ",
+      "version": 137,
+      "itemType": "journalArticle",
+      "title": "Effects of Application Translucency on Motion Sickness in In-Vehicle Augmented Reality",
+      "date": "2026",
+      "year": "2026",
+      "creators": [
+        "Zack Walker",
+        "Ansgar Gerlicher"
+      ],
+      "publicationTitle": "9th Symposium on Visually Induced Motion Sensations (VIMS2026)",
+      "publisher": "",
+      "publicationType": "Symposium contribution",
+      "status": "",
+      "isbn": "",
+      "eisbn": "",
+      "doi": "",
+      "url": "https://www.vims2026.org/",
+      "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Walker, Z., &amp; Gerlicher, A. (2026). Effects of Application Translucency on Motion Sickness in In-Vehicle Augmented Reality. <i>9th Symposium on Visually Induced Motion Sensations (VIMS2026)</i>. <a href=\"https://www.vims2026.org/\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.vims2026.org/</a></div>\n</div>"
+    },
+    {
+      "key": "T3DHD223",
+      "version": 136,
+      "itemType": "conferencePaper",
+      "title": "XR vs. Reality: Assessing the Validity of Virtual Automotive Interior Lighting Experiences",
+      "date": "2026",
+      "year": "2026",
+      "creators": [
+        "Larissa Kärger",
+        "Ansgar Gerlicher",
+        "Sara Launer"
+      ],
+      "publicationTitle": "4th Stuttgart Conference on Automotive Production (SCAP2026)",
+      "publisher": "",
+      "publicationType": "Conference paper",
+      "status": "",
+      "isbn": "",
+      "eisbn": "",
+      "doi": "",
+      "url": "https://scap-stuttgart.de/for-authors/",
+      "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Kärger, L., Gerlicher, A., &amp; Launer, S. (2026). <i>XR vs. Reality: Assessing the Validity of Virtual Automotive Interior Lighting Experiences</i>. 4th Stuttgart Conference on Automotive Production (SCAP2026). <a href=\"https://scap-stuttgart.de/for-authors/\" target=\"_blank\" rel=\"noopener noreferrer\">https://scap-stuttgart.de/for-authors/</a></div>\n</div>"
+    },
+    {
+      "key": "WDSA4FK8",
+      "version": 135,
+      "itemType": "journalArticle",
+      "title": "Towards Human-Centered LLM Applications: Design Insights of Developing an App Review Summarization Tool",
+      "date": "2026",
+      "year": "2026",
+      "creators": [
+        "Teresa Mary Kutzner",
+        "Joana Hois",
+        "Ansgar Gerlicher"
+      ],
+      "publicationTitle": "Procedia Computer Science",
+      "publisher": "Elsevier B.V.",
+      "publicationType": "Conference proceedings paper",
+      "status": "Presented",
+      "isbn": "",
+      "eisbn": "",
+      "doi": "",
+      "url": "",
+      "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Kutzner, T. M., Hois, J., &amp; Gerlicher, A. (2026). Towards Human-Centered LLM Applications: Design Insights of Developing an App Review Summarization Tool. <i>Procedia Computer Science</i>.</div>\n</div>"
+    },
+    {
+      "key": "IQTCNS7G",
+      "version": 134,
+      "itemType": "conferencePaper",
+      "title": "From Self-Control to Social Control: Reducing Screen Time Through Shared Limits",
+      "date": "2026",
+      "year": "2026",
+      "creators": [
+        "Alisa Vlasov",
+        "Jasmin-Joy Springer",
+        "Michael Cabanis",
+        "Maximilian Dolbaum",
+        "Dominik Seitz",
+        "Zack Walker",
+        "Ansgar Gerlicher"
+      ],
+      "publicationTitle": "HCI International 2026 - Late Breaking Papers",
+      "publisher": "Springer",
+      "publicationType": "Conference paper",
+      "status": "Presented",
+      "isbn": "",
+      "eisbn": "",
+      "doi": "",
+      "url": "https://2026.hci.international/proceedings.html",
+      "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Vlasov, A., Springer, J.-J., Cabanis, M., Dolbaum, M., Seitz, D., Walker, Z., &amp; Gerlicher, A. (2026). <i>From Self-Control to Social Control: Reducing Screen Time Through Shared Limits</i>. <i>Lecture Notes in Computer Science</i>. HCI International 2026 - Late Breaking Papers. <a href=\"https://2026.hci.international/proceedings.html\" target=\"_blank\" rel=\"noopener noreferrer\">https://2026.hci.international/proceedings.html</a></div>\n</div>"
+    },
+    {
+      "key": "I8KIV3BM",
+      "version": 133,
+      "itemType": "conferencePaper",
+      "title": "Layout-dependent effects of visual information quantities in in-vehicle information systems",
+      "date": "2026",
+      "year": "2026",
+      "creators": [
+        "Isabel Mötsch",
+        "Natalia Sevcenko",
+        "Ansgar Gerlicher"
+      ],
+      "publicationTitle": "10th International Conference on Driver Distraction and Inattention (DDI2026)",
+      "publisher": "",
+      "publicationType": "Conference presentation",
+      "status": "Presented",
+      "isbn": "",
+      "eisbn": "",
+      "doi": "",
+      "url": "https://ddi2026.org/proceedings/presentations/",
+      "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Mötsch, I., Sevcenko, N., &amp; Gerlicher, A. (2026). <i>Layout-dependent effects of visual information quantities in in-vehicle information systems</i>. 10th International Conference on Driver Distraction and Inattention (DDI2026). <a href=\"https://ddi2026.org/proceedings/presentations/\" target=\"_blank\" rel=\"noopener noreferrer\">https://ddi2026.org/proceedings/presentations/</a></div>\n</div>"
     },
     {
       "key": "U9AMRCQG",
@@ -153,7 +266,7 @@
         "Zack Walker",
         "Ansgar Gerlicher"
       ],
-      "publicationTitle": "",
+      "publicationTitle": "AHFE 2025 Hawaii International Conference                Human Factors in Design, Engineering, and Computing",
       "publisher": "AHFE International",
       "publicationType": "Peer-reviewed conference paper",
       "status": "Published",
