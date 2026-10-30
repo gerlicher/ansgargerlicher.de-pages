@@ -1,7 +1,7 @@
 {
   "source": "https://www.zotero.org/gerlicher/library",
   "api": "https://api.zotero.org/users/1360235/items/top",
-  "fetched": "2026-10-30T13:58:27.830Z",
+  "fetched": "2026-10-30T14:11:05.318Z",
   "style": "apa",
   "locale": "en-US",
   "publications": [
@@ -154,7 +154,7 @@
       ],
       "publicationTitle": "10th International Conference on Driver Distraction and Inattention (DDI2026)",
       "publisher": "",
-      "publicationType": "Conference presentation",
+      "publicationType": "Peer-reviewed short paper",
       "status": "Presented",
       "isbn": "",
       "eisbn": "",
