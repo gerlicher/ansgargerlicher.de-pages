@@ -1,7 +1,7 @@
 {
   "source": "https://www.zotero.org/gerlicher/library",
   "api": "https://api.zotero.org/users/1360235/items/top",
-  "fetched": "2026-10-30T14:11:05.318Z",
+  "fetched": "2026-11-02T20:01:57.606Z",
   "style": "apa",
   "locale": "en-US",
   "publications": [
@@ -50,6 +50,28 @@
       "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Kraus, A., Gerlicher, A. R. S., &amp; Hackenbeck, C. (2026). An OpenXR-Based Interface for Real-Time Sensor Integration in Intelligent Vehicles. <i>2026 IEEE Intelligent Vehicles Symposium (IV)</i>, 415–422. <a href=\"https://doi.org/10.1109/IV66570.2026.11624091\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.1109/IV66570.2026.11624091</a></div>\n</div>"
     },
     {
+      "key": "TGL879FT",
+      "version": 153,
+      "itemType": "journalArticle",
+      "title": "Towards Human-Centered LLM Applications: Design Insights of Developing an App Review Summarization Tool",
+      "date": "2026",
+      "year": "2026",
+      "creators": [
+        "Teresa Mary Kutzner",
+        "Joana Hois",
+        "Ansgar Gerlicher"
+      ],
+      "publicationTitle": "Procedia Computer Science",
+      "publisher": "Elsevier B.V.",
+      "publicationType": "Peer-reviewed conference proceedings paper",
+      "status": "Published",
+      "isbn": "",
+      "eisbn": "",
+      "doi": "10.1016/j.procs.2026.10.281",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S1877050926039426",
+      "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Kutzner, T. M., Hois, J., &amp; Gerlicher, A. (2026). Towards Human-Centered LLM Applications: Design Insights of Developing an App Review Summarization Tool. <i>Procedia Computer Science</i>, <i>292</i>, 7099–7108. <a href=\"https://doi.org/10.1016/j.procs.2026.10.281\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.1016/j.procs.2026.10.281</a></div>\n</div>"
+    },
+    {
       "key": "M2DVAZVJ",
       "version": 137,
       "itemType": "journalArticle",
@@ -91,28 +113,6 @@
       "doi": "",
       "url": "https://scap-stuttgart.de/for-authors/",
       "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Kärger, L., Gerlicher, A., &amp; Launer, S. (2026). <i>XR vs. Reality: Assessing the Validity of Virtual Automotive Interior Lighting Experiences</i>. 4th Stuttgart Conference on Automotive Production (SCAP2026). <a href=\"https://scap-stuttgart.de/for-authors/\" target=\"_blank\" rel=\"noopener noreferrer\">https://scap-stuttgart.de/for-authors/</a></div>\n</div>"
-    },
-    {
-      "key": "WDSA4FK8",
-      "version": 135,
-      "itemType": "journalArticle",
-      "title": "Towards Human-Centered LLM Applications: Design Insights of Developing an App Review Summarization Tool",
-      "date": "2026",
-      "year": "2026",
-      "creators": [
-        "Teresa Mary Kutzner",
-        "Joana Hois",
-        "Ansgar Gerlicher"
-      ],
-      "publicationTitle": "Procedia Computer Science",
-      "publisher": "Elsevier B.V.",
-      "publicationType": "Conference proceedings paper",
-      "status": "Presented",
-      "isbn": "",
-      "eisbn": "",
-      "doi": "",
-      "url": "",
-      "bibliography": "<div class=\"csl-bib-body\">\n  <div class=\"csl-entry\">Kutzner, T. M., Hois, J., &amp; Gerlicher, A. (2026). Towards Human-Centered LLM Applications: Design Insights of Developing an App Review Summarization Tool. <i>Procedia Computer Science</i>.</div>\n</div>"
     },
     {
       "key": "IQTCNS7G",
